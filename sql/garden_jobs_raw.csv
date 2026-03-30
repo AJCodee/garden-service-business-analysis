@@ -1,0 +1,493 @@
+job_id,customer_id,job_date,scheduled_start,scheduled_end,job_type,job_duration_mins,travel_time_mins,distance_miles,price_gbp,hourly_rate_gbp,payment_method,location,notes
+J0210,C-010,09-05-2025,13:00,14:34,weed/tidy, 94,12 mins,21.6mi,28.2,18.0,Cash,Derham,front only
+J0231,C013 ,Jul 22 2025,10:00,11:21,hedges,81,16 mins,7.5,33.75,25.0,card,Hetherset,
+J0450,C029,2025-12-03,10:00,11:43,hedge-trim,103 mins,8,18.6mi,38.62,22.5,Cash,Wymondham ,front only
+J0347,C024,Nov 05 2025,13:30,14:50,hedge trim,80,6, 11.2,31.33 ,23.5,card,Mulbarton,rear access
+J0008,C-001,May 02 2025,14:00,14:47,grass cut,47,10 ,20.9mi,14.88,19.0,Card,caston,bins blocking gate
+J0467,C032,2025-12-03,10:00,11:04,Weed & Tidy,64 mins,6 mins,11.4mi, 22.40,21.0,cash,Hethersett ,bins blocking gate
+J0429,C-028,10/09/2025,13:30,14:31,lawn cut, 61,-10,22.7 miles,20.84,20.5,bacs,saham toney,customer not home 
+ J0479,C033,08/10/2025,9:00,09:53,Hedge Trim, 53,6 mins, 9.0,19.43,22.0, card,Hethersett ,front only
+J0401,C027,29/10/2025,08:30,09:09,grass cut,39 mins,13, 14.8,13.33,20.5,bank transfer,hethersett,rear access
+J0245,c016,2025-06-05,10:00,10:52,lawn-cut,52, 10,22.2 miles,17.33,20.0,bank xfer,caston,
+J0413,C028,2025/01/29,10:00,11:29,jet wash,89 mins,9 mins,25.3 miles,34.12,23.0,Bank Transfer,saham toney,rear access
+J0097, C003,27 Aug 2025,10:00,11:01,grass cut, 61,14 , 13.7,19.82,19.5,bacs,Mulbarton,leave invoice
+J0087, C003,09-04-2025,9am,09:57,Weed & Tidy, 57, 7,12.8,19,20.0,Card,mulbarton,leave invoice
+J0263,C020,08 Mar 2025,13:00 ,14.03,Lawn Cut, 63, 19,22.0 miles,23.10 ,22.0,card,Derham,rear access
+J0039,C002,2025/03/26,14:00,15:07,lawn-cut,67 mins,6,15.9,20.1,18.0,card,NORWICH,bins blocking gate
+J0200,C-009,03/12/2025,14:00,15:31,leaf clear,91 mins,7 ,18.5mi,30.33,20.0,debit card,Ashwell Thorpe,front only
+J0280, C020,05-07-2025,9:00,10:22,grass cut, 82,7,20.3,29.38 ,21.5, cash,DEREHAM,
+J0295,C020 ,2025/10/18,9:00,10:42,hedges, 102,6 mins,18.1,41.65,24.5,bank transfer ,Dereham,rear access
+j0298,C020,08-11-2025,09.00,10:28,Leaf Clearance, 88, 6, 17.2,27.13,18.5,cash,Dereham,front only
+J0101,C003,08/10/2025,09:00,10:10,leaf clear,70,6 mins, 14.6,21.58,18.5,bank transfer ,mulbarton,
+J0241,C013,09/12/2025,10:00,11:40,Leaf Clearance, 100,6 ,12.8,32.5,19.5, bank transfer,Hethersett ,leave invoice
+J0152,C007,2025-05-07,10:00,11:07,weeding,67 mins,9 , 19.1,22.33,20.0,cash,Ashwellthorpe,
+J0355,C026,26/03/2025,1pm,13:50,hedge trim,50, 6, 13.6,20,24.0,BANK TRANSFER,Attleborough ,rear access
+j0121,C005,2025-07-30,1pm,14:07,lawn-cut,67 mins, 13, 14.6,23.45 ,21.0,CASH,Besthorpe,customer not home
+J0247 ,C017,12 Mar 2025,08.00,08:56,Lawn Cut,56,6 ,19.2mi,17.73,19.0,CASH,Hingam,bins blocking gate
+J0112,C-005,Mar 26 2025,13:00,14:04,lawn-cut,64,10 mins,16.9 miles,23.47,22.0,Cash,besthorpe,leave invoice
+J0060,C002 ,2025-08-20,14.30,15:24,mow, 54,7 , 8.7,19.8,22.0,card ,NORWICH,
+J0009, C001,2025/05/12,9am,10:06,hedge-trim,66 mins, 7,25.0,25.3,23.0,BANK TRANSFER,Caston ,customer not home
+J0069,C002,2025-10-22,13:00 ,14:01,leaf clear,61 mins,6,5.7mi,18.81,18.5,bank transfer,Norwich city,leave invoice
+J0400,C027,Oct 22 2025,10:30,11:21,leaves,51,11 mins,10.1,16.57,19.5,Card,hethersett,leave invoice
+J0262,C019,31 Dec 2025,10:00,11:07,pressure-wash,67 mins,16 mins, 15.6,25.12,22.5, cash,Attleboro,leave invoice
+J0255,C019,2025-06-18,8am,08:35,lawn-cut,35,16,22.8 miles,12.25,21.0,bank xfer,Attleboro,
+J0430,C028,2025-09-24,09.00,10:04,Weed & Tidy,64,11,23.9,19.73,18.5,debit card,Saham Tony,
+J0147,C007,Apr 02 2025,1030,12:03,hedges, 93,6,20.8mi,36.43,23.5,Card,ashwellthorpe,front only
+J0042,C002,2025/04/16,10:30 AM,11:54,hedges,84 mins, 6,5.7 miles,£32.2,23.0, card,Norich,
+J0176,C007,22 Oct 2025,14:00,14:54,leaf clearance,54 mins,10,22.3,16.2,18.0,cash,ashwellthorpe,rear access
+J0038,C002,2025-03-19,1030,11:27,grass cut,57, 6,9.7,£19.47,20.5,cash ,Norwich,leave invoice
+J0054, C002,2025-07-09,13.00,14:05,grass cut,65 mins, 6,8.1mi,20.58,19.0, bank transfer, norwich,customer not home
+ J0161,C007,09 Jul 2025,14:30,15:26,Weed & Tidy, 56,8 ,19.5 miles,19.6,21.0,card,ashwellthorpe,leave invoice
+J0172,C007,2025/09/24,14:00,14:56,Lawn Cut,56 mins,6 mins,15.1mi, 19.60,21.0,debit card,Ashwellthorpe,
+J0427,C-028,13/08/2025,13:00,13:58,grass cut,58 mins, 7,21.8mi,£17.88,18.5,bank xfer,SahamToney,customer not home
+J0440,C029,2025-02-26,9:00,10:46,weeding,106, 6, 15.0,32.68 ,18.5,Card,wymondham,leave invoice
+J0426,C028,2025-07-30,08:30,09:35,lawn-cut, 65,10 ,25.4 miles,21.67,20.0,bank transfer,SahamToney,leave invoice
+J0313,C021,09/04/2025,09:30,10:27,Lawn Cut, 57,8 mins,23.5,£20.9,22.0, bank transfer,Caston,rear access
+J0132,C005,2025/12/31,13:30,14:42,hedge trim,72, 6,17.0mi,26.4,22.0,Bank Transfer,Besthorpe , 
+J0377,C027,2025/05/14,09:30,10:24,grass cut, 54, 6,10.2,19.35 ,21.5,card,hethersett,leave invoice
+ J0107,C003,Dec 31 2025,14:00,15:30,pressure wash,90 mins,6 ,17.2mi,28.5,19.0,cash ,Mulbarton,customer not home
+J0045,C002,07 May 2025,13:00 ,14:19,Hedge Trim,79 mins, 6,8.2mi,32.26,24.5, bank transfer,Norich,front only
+J0169,C007 ,03-09-2025,9am,09:55,lawn cut,55,12,14.0 miles,19.71 ,21.5,card,Ashwell Thorpe,leave invoice
+J0423,C-028,18-06-2025,10:00,11:01,grass cut, 61,6 ,21.9mi,£22.37,22.0,card,saham toney,leave invoice
+J0471,C033,26/02/2025,09:30,10:09,weed & tidy, 39,6 mins, 13.3,13,20.0,card,hethersett,front only
+J0212,C010,06/06/2025,08:00,09:33,lawn-cut,93, 6,23.2 miles,28.68,18.5,cash,Dereham,rear access
+J0359,C027,08/01/2025,13:30,14:12,Leaf Clearance,42,16 , 13.4,12.95,18.5, bank transfer,Hethersett ,bins blocking gate
+J0216,C010,01-08-2025,10:00,11:23,mow,83 mins,16, 17.2,24.9,18.0, card,dereham,front only
+J0448,C-029,08 Oct 2025,1030,12:18,Weed & Tidy, 108, 6,14.4,34.2,19.0,CASH,wymondham,
+J0324 ,C021,10 Sep 2025,9am,10:12,leaf clearance,72 mins,11 , 17.0,23.40 ,19.5,bank transfer ,Casten,customer not home
+J0380,c027,04 Jun 2025,09:30,10:16,tidy up,46 mins,6 ,14.6mi,£14.95,19.5, bank transfer,Hetherset,bins blocking gate
+J0022,C001 ,2025-10-31,10.30,11:30,Hedge Trim,60,6 ,23.7 miles,22,22.0,Card,Casten,
+J0334,C-023,22/08/2025,09:30,11:05,lawn-cut,95, 6, 22.3,29.29,18.5,Card,Besthorpe ,
+J0106,C003,Dec 17 2025,08:00,09:20,pressure wash, 80,6, 9.0,30.67,23.0,debit card,Mulbarton,customer not home
+J0089,C003,2025/05/07,1pm,13:55,mow, 55,6 ,9.8mi, 20.17,22.0,Bank Transfer,Mulbarton,
+J0140,c007,Feb 12 2025,14.30,15:44,weed/tidy,74 mins, 12, 23.3,22.2,18.0,CASH,ashwellthorpe,leave invoice
+J0094 ,C003,Jul 16 2025,08.00,08:51,lawn-cut, 51, 9,16.8,17.43 ,20.5,BANK TRANSFER,Mulbarton,
+J0476, C033,Jul 16 2025,14:00,14:50,weed & tidy, 50, 6,10.8mi,15.83,19.0,bank transfer,Hethersett ,rear access
+J0356,C026,23-04-2025,2:30pm,15:16,grass cut, 46,6 , 20.6,£15.33,20.0,Card,Attleborough,leave invoice
+J0258,C019,2025-09-10,13:00 ,14:03,leaf clear,63 mins,6 ,17.3 miles,21.53,20.5, bank transfer,Attleboro,
+J0086,C003,Mar 26 2025,08:30,09:27,weeding,57 mins, 6,9.0mi,17.1,18.0,Bank Transfer,mulbarton,
+J0303,C-020,Dec 13 2025,9am,10:20,hedge trim,80,6,23.4mi,32,24.0,card,DEREHAM,bins blocking gate
+J0325,C021,Sep 24 2025,13:30,14:45,lawn cut,75 mins,19,19.7mi,22.5,18.0,Cash,Caston,
+J0399,C027,Oct 15 2025,10:00,11:20,hedge-trim, 80,6,8.5mi,32,24.0, card,Hetherset,
+J0456,c032,2025-01-29,1pm,14:18,hedge trim,78,12 mins,11.6 miles,29.25,22.5,bank xfer,Hethersett,
+J0252,C019,2025/03/26,09:00,09:40,lawn cut,40 mins, 9,19.2,£14,21.0,BANK TRANSFER,Attleboro,rear access
+J0046,C002,14 May 2025,10:00,11:07,grass cut, 67,14, 11.8, 21.78,19.5,bank transfer,Norwich city,
+J0183,C007,10 Dec 2025,9:00,10:25,hedge trim, 85,6 , 14.8,31.17,22.0,cash ,Ashwell Thorpe,bins blocking gate
+J0305,C020,27/12/2025,13.00,14:27,leaf clearance, 87,10 mins,21.0,30.45,21.0,cash,Derham,
+ J0202,C010,2025/01/17,09:00,10:45,pressure-wash,105,6,20.4 miles, 38.50,22.0,bank xfer,Dereham,
+J0156,C007 ,Jun 04 2025,8:00,09:19,hedge trim,79 mins,6 ,15.0mi,32.26,24.5,bank xfer,ashwellthorpe,bins blocking gate
+J0229,C013,24/06/2025,13:30,15:17,hedge-trim, 107,6 mins,13.2,£39.23,22.0,Bank Transfer,hethersett, 
+J0199,C-009,2025/11/05,1pm,14:16,Leaf Clearance, 76,7 ,19.1 miles,£24.07,19.0,CARD,ashwellthorpe,rear access
+J0480 ,c033,05 Nov 2025,13:30,14:22,Weed & Tidy,52,-10, 13.9,16.47,19.0,bank transfer,Hetherset,leave invoice
+J0093,C003,02-07-2025,9am,10:09,weed/tidy, 69, 6, 13.2,23.00 ,20.0,cash ,mulbarton,rear access
+J0075,C002,Dec 03 2025,14:00,14:54,leaf clear,54 mins,6 mins, 11.3,18.9,21.0,bacs,Norwich ,leave invoice
+J0181,C007,2025-11-26,08:00,09:20,Hedge Trim,80,8 , 14.3,30.0,22.5,CASH,Ashwellthorpe,customer not home
+J0005,C001,2025-03-21,13:00 ,13:45,lawn-cut, 45,8 , 17.3,13.88,18.5,CARD,Caston,
+J0070,C002,2025/10/29,8am,09:23,Hedge Trim,83, 6,2.0mi,31.82,23.0,Card,Norwich city,front only
+J0279,c020,2025/06/28,13:30,14:58,Weed & Tidy,88 mins,7, 19.0,30.07,20.5,Bank Transfer,Derham,bins blocking gate
+J0327,C021,22/10/2025,10:30,11:25,lawn-cut, 55,6, 22.3,18.33,20.0,BANK TRANSFER,Casten,leave invoice
+J0461 ,C032,18/06/2025,09:00,10:04,weed & tidy, 64, 6,11.3mi,21.33,20.0,card ,Hethersett,front only
+J0348,C024,Dec 03 2025,10:00,11:11,leaf clear, 71,-5,13.6 miles,21.89,18.5,bank xfer,Mulbarton,rear access
+J0248,c018,06 Jan 2025,09:30,10:58,pressure-wash,88, 11,19.3, 28.60,19.5, bank transfer,Hingham ,leave invoice
+J0354,C026,26 Feb 2025,8:00,09:15,jet wash, 75,6 ,15.6 miles,31.25,25.0,CASH,Attleboro,
+J0091,C003,04/06/2025,1030,11:25,weed & tidy,55 mins, 9,10.7 miles,16.96 ,18.5,cash ,Mulbarton,
+J0208,C010,2025/04/11,10:00,11:11,lawn cut, 71,6 mins,23.3mi,21.89,18.5, bank transfer,dereham,front only
+J0376,C027,07-05-2025,13:00,13:43,weeding,43 mins,8 mins,9.3mi,14.69,20.5,Card,hethersett,customer not home
+J0397,c027,Oct 01 2025,10:00,11:03,leaf clear,63 mins,6 ,9.2,22.05,21.0,bank xfer,hethersett,leave invoice
+j0314,C021,2025/04/23,9am,09:51,grass cut, 51, 6,24.5,16.15,19.0,bank transfer ,caston,
+j0226,C010,2025/12/19,10:00,11:22,tidy up,82 mins,9 mins,21.4mi,28.02,20.5,Cash,dereham,leave invoice
+J0469, C033,01 Jan 2025,2:30pm,15:27,Hedge Trim,57, 6, 17.4,23.27,24.5,CARD,Hetherset,leave invoice
+J0460,C032,21/05/2025,8am,09:33,hedge trim,93,6 mins,7.4mi,36.43,23.5, bank transfer,hethersett,
+J0219,C010,Sep 12 2025,13:00,14:38,hedges, 98, 16, 20.9,39.2,24.0,cash ,Dereham,leave invoice
+J0385,C027,2025-07-09,13:30,14:27,Hedge Trim, 57,6 ,5.4 miles, 23.75,25.0,bank xfer,Hetherset,front only
+J0459,C032,23/04/2025,14.30,15:40,mow,70,6, 15.3,25.08,21.5,cash,Hethersett ,bins blocking gate
+J0340,C024,23/04/2025,14:00,15:47,hedges,107,8 , 13.2, 40.12,22.5, card,Mulbarton,customer not home
+J0144,C007,12 Mar 2025,08:30,09:22,Lawn Cut,52 mins,11 mins,14.7mi,16.47 ,19.0,bacs,Ashwell Thorpe,rear access
+J0163,C007,23/07/2025,10:00,11:10,mow,70 mins,6 mins,25.4mi,24.5,21.0,card ,Ashwell Thorpe,rear access
+J0012 ,C001,13/06/2025,08:30,09:25,lawn cut,55 mins,6 ,24.3 miles,19.25,21.0,bacs,caston,leave invoice
+J0007,C-001,18-04-2025,08:30,09:23,mow,53 mins,7, 20.3,18.55,21.0,BANK TRANSFER,CASTON ,
+J0294,C020,2025-10-11,1030,12:11,lawn-cut,101,6,22.4mi,35.35,21.0,bank xfer,Derham,customer not home
+J0148,C007,2025-04-09,9am,09:50,Lawn Cut, 50,6 mins,17.7,16.25,19.5,cash ,ashwellthorpe,customer not home
+j0314,C021,2025/04/23,9am,09:51,grass cut,51 mins, 6,24.5,17.43,20.5,bacs,caston,
+J0238,C013,28-10-2025,10:00,11:19,lawn-cut,79 mins,9 mins,14.4 miles,28.31,21.5, bank transfer,Hetherset,bins blocking gate
+J0390,C027,13 Aug 2025,1pm,13:46,lawn cut,46 mins,6 mins, 10.1,16.1,21.0,bank transfer,hethersett,
+j0373,C027,2025/04/16,10:00,11:20,hedge-trim,80 mins,-10, 15.6,31.33 ,23.5,CASH,hethersett,customer not home
+J0429,C-028,10/09/2025,13:30,14:31,lawn cut,61 mins,-10,22.7 miles, 20.84,20.5,BANK TRANSFER,saham toney,customer not home
+J0171 ,C007,2025/09/17,14:00,15:03,lawn cut,63, 9, 15.9, 22.05,21.0,cash,Ashwell Thorpe,bins blocking gate
+J0318,C021,2025/06/18,10:00,11:06,weed & tidy,66,8,27.9,19.8,18.0,debit card,Caston,front only
+J0345,C024,2025/09/10,13.00,14:23,mow,83 mins, 10, 12.0,24.9,18.0,Bank Transfer,mulbarton, 
+J0409,C027,24-12-2025,08:00,09:14,pressure-wash,74,6 mins,13.9,24.67 ,20.0,card,Hethersett ,front only
+J0133,C006,Jun 11 2025,1030,11:08,grass cut, 38, 12,23.6 miles,12.35,19.5,CASH,DEREHAM,leave invoice
+J0281,C020,12 Jul 2025,14:00,15:19,weeding,79 mins,6,20.7,26.33,20.0,bank xfer,DEREHAM,leave invoice
+J0463,C032,13 Aug 2025,13:00 ,13:52,weed/tidy,52, 6,10.9,£16.47,19.0,CASH,Hethersett,leave invoice
+ J0433,C028 ,Nov 05 2025,08:30,09:56,pressure-wash, 86,-5,19.0,31.53,22.0,bank transfer,SahamToney,leave invoice
+j0381,C027,11-06-2025,14.30,15:08,lawn cut, 38,9 mins,13.5,£12.35,19.5,bank xfer,Hethersett ,front only
+J0096,C003,13 Aug 2025,14:00,15:08,weed & tidy,68,6 mins,5.9mi,23.80 ,21.0,bank xfer,Mulbarton,bins blocking gate
+J0014,C001,11 Jul 2025,8am,09:01,hedge-trim,61 mins,6,22.4,24.4,24.0, card,CASTON ,bins blocking gate
+J0242,C013,23-12-2025,09:30,11:14,tidy up, 104, 6, 14.4,32.93,19.0,bank transfer,Hethersett ,front only
+J0204 ,C010,2025-02-14,09:30,10:57,Pressure Wash, 87,6,20.9 miles,32.62,22.5,debit card,Derham,front only
+J0142,C007,2025/02/26,10:00,10:58,leaf clear, 58,6 mins, 16.6, 19.82,20.5, bank transfer,Ashwellthorpe,bins blocking gate
+J0320,C-021,16/07/2025,13.00,14:03,weeding,63,6 mins,26.8mi,20.48,19.5,BANK TRANSFER,Caston , 
+J0027, C002,Jan 01 2025,1430,15:22,leaf clearance,52 mins,6 ,7.2mi,16.03,18.5,cash ,Norwich ,bins blocking gate
+J0154,C007,21/05/2025,8:00,09:20,Hedge Trim, 80,8,13.9 miles,32,24.0,card ,Ashwellthorpe,
+J0165,C007,Aug 06 2025,9:00,10:10,Weed & Tidy,70,10, 15.0,21.58,18.5,CARD,Ashwellthorpe,
+J0078,C002,24 Dec 2025,09:30,10:48,pressure wash, 78, 6,7.1,27.3,21.0,Card,Norich,leave invoice
+J0289,C020,2025/09/06,09:30,10.50,hedge-trim,80,6 ,14.4,31.33,23.5,cash ,Derham,leave invoice
+J0185,C007 ,2025/12/24,08:00,09:22,pressure-wash, 82,6 mins,16.3 miles,30.75,22.5,CASH,Ashwellthorpe,leave invoice
+J0073,C002,2025-11-19,08:00,09:12,leaf clearance,72 mins,6 mins,3.8, 24.60,20.5,BANK TRANSFER,Norwich,
+J0095,C003,2025/07/30,08:30,09:25,lawn cut, 55, 14,12.1 miles, 20.17,22.0, bank transfer,mulbarton,front only
+J0063 ,C002,10 Sep 2025,13:30,14:33,Lawn Cut, 63,6, 5.9, 22.57,21.5,cash,Norwich,leave invoice
+J0178 ,C007,05/11/2025,1430,16:02,jet wash,92 mins,8, 18.3,37.57,24.5,Bank Transfer,Ashwellthorpe,leave invoice
+J0090,c003,21 May 2025,9am,10:26,hedge trim,86 mins,6 ,11.9,35.12,24.5,bank xfer,Mulbarton,bins blocking gate
+J0155,C007,28 May 2025,13:00 ,14:06,lawn-cut, 66,6 mins,17.5 miles,22,20.0,BANK TRANSFER,Ashwellthorpe,bins blocking gate
+J0157,C007,2025-06-11,10:30 AM,11:32,lawn-cut,62 mins,6,15.1 miles, 19.63,19.0,Bank Transfer,Ashwellthorpe,leave invoice
+J0130,C005,2025/12/03,14:30,15:38,leaves,68 mins,10 ,21.4mi,21.53,19.0,Bank Transfer,Besthorpe ,rear access
+J0417,C028,26/03/2025,2:30pm,15:41,weeding, 71,18 mins,23.7mi,24.85,21.0, bank transfer,Saham Tony,customer not home
+J0379,C027,May 28 2025,09:30,10:42,hedge trim,72 mins, 9,10.9 miles,28.2,23.5,cash,Hetherset,rear access
+J0352,C-026,Jan 01 2025,10:00,10:35,leaves,35 mins,6,18.5,£13.12,22.5,cash ,attleborough,customer not home
+J0338,C024,26 Feb 2025,10:00,12:03,hedge trim,123 mins,7,14.2,50.22,24.5, cash,Mulbarton,customer not home
+J0164,C007,30/07/2025,9:00,09:56,lawn cut,56, 6,12.8mi,17.27,18.5,cash ,ashwellthorpe,
+J0302,C020,2025-12-06,08.00,10:10,pressure wash, 130,17 ,22.2mi,44.42,20.5,card ,Dereham,front only
+j0003,C001,21-02-2025,14.30,15:22,hedges,52 mins,8 , 19.5,20.8,24.0, card,caston,rear access
+J0019,C001,19 Sep 2025,13:00 ,13:46,weed & tidy,46 mins, 18,24.6mi,£15.72,20.5,bacs,Caston ,bins blocking gate
+J0168, C007,2025-08-27,9am,10:10,Lawn Cut,70 mins,6, 17.4,21.58 ,18.5,cash,ashwellthorpe,rear access
+J0285,C020,2025/08/09,2:30pm,15:57,lawn-cut,87 mins,6 , 24.8,30.45,21.0,CARD,Derham, 
+J0077,C002,17 Dec 2025,10:00,11:07,leaves,67 mins,6 ,6.6,23.45,21.0,bank transfer , norwich,front only
+J0407,C027,10 Dec 2025,9:00,10:20,jet wash,80 mins,6 ,14.0 miles,30,22.5,bacs,Hethersett ,front only
+J0337,C024,Jan 29 2025,13:00,15:10,jet wash, 130, 13,14.1,54.17,25.0, card,mulbarton,front only
+J0435,C028,03-12-2025,8:00,08:57,weed & tidy,57 mins,13 mins,24.2mi,17.57,18.5,bank transfer,Saham Toney,rear access
+J0297,C020,01/11/2025,08:30,09.34,Weed & Tidy,64,6,19.5 miles,21.33,20.0,CARD,Derham,bins blocking gate
+J0403,C027 ,12/11/2025,10:00,10:46,Leaf Clearance, 46,6 ,13.5mi,14.95,19.5,BANK TRANSFER,Hethersett ,bins blocking gate
+J0203,C-010,Jan 31 2025,14:00,15:33,hedge-trim, 93,6 mins,23.2 miles,36.43,23.5,card ,Derham,
+J0067,C002,08-10-2025,10:00,11:00,tidy up,60,6 ,8.7 miles,£21,21.0, cash,Norich,front only
+J0230,C013,08/07/2025,14:00,15:30,weed/tidy, 90,6 ,11.3,27,18.0,BANK TRANSFER,hethersett,
+J0134,C007,01-01-2025,14:00,14:56,leaf clearance, 56, 6,15.7,19.6,21.0,debit card,Ashwell Thorpe,rear access
+J0145,C-007,19 Mar 2025,1430,15:59,hedge-trim, 89,12, 15.4,34.12 ,23.0,debit card,Ashwellthorpe, 
+J0367, C027,2025/03/05,14:00,15:07,grass cut,67,6 mins,16.9mi, 24.01,21.5,debit card,Hetherset,leave invoice
+J0451,C029,2025-12-31,8:00,09:31,leaf clear,91 mins,6 ,12.4mi, 28.06,18.5,BANK TRANSFER,Wymondhm, 
+J0266, C020,2025-03-29,10:00,11:22,weed/tidy,82, 10,19.1mi,26.65,19.5,card ,dereham,customer not home
+J0159,C007,25 Jun 2025,09:30,10:36,lawn cut,66 mins, 6,17.9, 22.00,20.0,bank transfer ,Ashwellthorpe,leave invoice
+J0292,c020,Sep 27 2025,10:00,12:05,hedges,125, 7,18.8 miles,52.08,25.0, bank transfer,Derham,rear access
+J0308,C021,29-01-2025,09:30,10:45,hedge trim, 75,14 ,21.3,27.50 ,22.0,card ,caston, 
+J0197,c009,Sep 10 2025,10:00,11:12,Lawn Cut, 72,6 ,13.3,21.60 ,18.0,CARD,ashwellthorpe,front only
+J0246,C016,Sep 10 2025,13:00,13:54,Leaf Clearance, 54, 6,17.9mi,18.45,20.5, cash,Caston,
+J0146,C007,26/03/2025,13:00 ,14:07,mow,67,6 mins, 15.0,22.33,20.0,card,Ashwell Thorpe,bins blocking gate
+ J0419,C028,2025/04/23,2:30pm,15:20,mow,50 mins,11, 28.2,15.42,18.5,Cash,SahamToney,customer not home
+J0104,C-003,19-11-2025,09.00,10:25,pressure-wash, 85,6 ,12.8 miles,29.75,21.0,cash ,Mulbarton,rear access
+J0228,C012,2025-07-29,9:00,09:54,mow,54, 13,14.1 miles,17.55,19.5,Cash,Wymondhm,leave invoice
+J0092,C003,Jun 18 2025,09:30,10:39,grass cut,69,11, 10.1,25.3,22.0,cash,Mulbarton,front only
+J0180,C007,19-11-2025,1030,11:45,hedge-trim,75 mins,6 mins,19.9 miles,31.25,25.0, card,Ashwellthorpe,
+J0341,c024,May 21 2025,14:00,15:50,lawn-cut,110 mins,6,11.6mi, 33.00,18.0, card,Mulbarton,rear access
+J0018,C001 ,05/09/2025,14:00,15:04,weeding, 64,7 mins, 23.2,22.40 ,21.0,CARD,Casten,
+J0166,C007,2025-08-13,8:00,08:54,lawn-cut, 54,8 mins,17.8mi,19.8,22.0,bank xfer,ashwellthorpe,leave invoice
+J0021,C001,17 Oct 2025,14:00,14:49,weed/tidy,49 mins,9,16.9 miles,16.74 ,20.5,card ,Caston,front only
+J0131,C-005,Dec 17 2025,14:00,15:13,leaves,73 mins,6, 13.8,27.37,22.5,bank transfer ,Besthorpe ,rear access
+J0191,C009,26 Mar 2025,8am,09:22,lawn cut,82, 6, 14.8,25.97,19.0, cash,Ashwellthorpe,
+J0319,c021,Jul 02 2025,08:00,09:12,hedge-trim,72,6 ,24.2 miles,27.6,23.0,bank transfer ,caston,bins blocking gate
+J0309,C021,2025/02/12,10:00,11:14,hedges,74 mins,6, 22.1,£28.98,23.5,Cash,CASTON ,rear access
+J0363,C027,05 Feb 2025,9:00,10:18,hedges,78 mins,9, 8.8,32.5,25.0,debit card,Hethersett ,leave invoice
+J0323,C021,27/08/2025,14:00,14:53,lawn-cut, 53,13 ,21.3 miles,16.34,18.5,bank xfer,CASTON ,rear access
+J0150,C007,23 Apr 2025,10:00,11:10,lawn cut, 70,6 mins,16.2,23.92,20.5,bank transfer ,Ashwellthorpe,rear access
+ J0474,C033,2025/05/21,10:00,11:11,Hedge Trim,71,6,10.5mi,26.03,22.0,CASH,Hethersett,
+J0404,C027,19 Nov 2025,08:30,09:49,hedge-trim,79,8 ,8.0 miles,£32.26,24.5,bank xfer,Hethersett ,leave invoice
+J0358 ,C027 ,01 Jan 2025,08:30,09:50,hedge-trim,80, 6,14.3mi,31.33 ,23.5,card,Hethersett ,
+J0301,C020,2025-11-29,08.00,09:34,weed & tidy,94 mins,7 mins, 24.3,£32.9,21.0,card ,DEREHAM,leave invoice
+J0239,C013,11 Nov 2025,10:30 AM,12:24,pressure-wash,114 mins,6,11.3,43.7,23.0,Bank Transfer,Hetherset,customer not home
+J0234,C013,2025/09/02,13.00,14:55,hedge-trim,115 mins, 7, 13.9,42.17,22.0,debit card,Hethersett , 
+J0189,C009,2025/01/29,08:30,10:21,pressure wash,111 mins,6 ,14.7,37.00 ,20.0,bank transfer ,Ashwell Thorpe,customer not home
+J0453,C030,10 Nov 2025,2:30pm,15:27,weeding,57 mins,7 mins, 10.2,17.1,18.0,CARD,Porringland,
+j0015,C001,25 Jul 2025,10:00,10:38,lawn-cut,38,7, 24.4,£12.03,19.0, bank transfer,Caston,rear access
+J0346,c024,08/10/2025,09.00,10:37,Leaf Clearance,97 mins, 6,10.3mi,31.53,19.5,CARD,Mulbarton,rear access
+J0076,C002,2025-12-10,13:00,14:01,leaf clear,61 mins,6, 6.4,19.82,19.5,cash ,Norich,customer not home
+J0254,C019,21 May 2025,13.00,13:45,Lawn Cut, 45,13,20.2,15,20.0,debit card,attleborough,rear access
+J0040,C002,2025/04/02,14:00,15:00,grass cut, 60,6 mins,5.9 miles,18,18.0,bacs,Norwich city,
+J0387,C027,23/07/2025,10:30 AM,11:24,grass cut,54,6 mins,13.8 miles,19.35,21.5,bank xfer,Hethersett ,bins blocking gate
+J0482,C033,31 Dec 2025,08:30,09:23,leaves,53, 6,12.1mi,18.99 ,21.5,CASH,Hethersett,rear access
+J0311,c021,12-03-2025,8am,09:04,Weed & Tidy,64, 11,24.4,21.87,20.5,Bank Transfer,CASTON ,rear access
+J0278,C020,21/06/2025,13:00 ,15:03,Hedge Trim, 123,6 mins,17.7mi,50.22,24.5,card ,DEREHAM,bins blocking gate
+J0213,C010,20 Jun 2025,08:00,09:41,mow,101 mins,6 ,23.5,34.51,20.5,CASH,Derham,front only
+J0188,C009,01 Jan 2025,10:00,11:47,hedge-trim,107 mins, 6, 21.2,41.91 ,23.5, cash,Ashwell Thorpe,bins blocking gate
+J0179,C007,2025/11/12,14:00,15:46,pressure wash,106,6,17.3 miles,37.98,21.5,bank xfer,Ashwell Thorpe,leave invoice
+J0250,C019,29-01-2025,10:00,10:48,leaves,48 mins,9 ,17.9 miles,18,22.5,CARD,Attleborough ,rear access
+J0464,C032,10-09-2025,08:30,09:35,hedge trim,65, 6,12.3,25.46,23.5,Cash,hethersett,rear access
+J0455,C032,01-01-2025,08.00,09:22,jet wash,82, 6,11.4 miles,33.48,24.5, card,Hethersett,
+J0214,C010,2025-07-04,09.00,10:31,weed & tidy, 91,10 mins,22.3,31.85,21.0,cash,Derham,
+J0201,C009,31/12/2025,08:30,09:53,hedges, 83, 14,15.7 miles,33.89,24.5,cash ,Ashwell Thorpe,leave invoice
+J0357,C026,10/07/2025,10:00,11:16,hedge trim,76, 17,17.5 miles,£29.13,23.0,cash,Attleborough ,customer not home
+J0100,C003,2025/09/24,10:00,11:09,weed & tidy, 69, 6,11.0, 23.00,20.0,debit card,mulbarton,bins blocking gate
+J0331,C021,17-12-2025,14:00,15:39,Pressure Wash,99 mins,15 , 21.9,37.12,22.5,card ,Casten,bins blocking gate
+J0270,C020,Apr 26 2025,14.30,15:52,weeding,82 mins, 6,19.1mi,24.6,18.0,card ,Dereham,rear access
+J0227,C011,2025/11/04,09:30,10:15,leaf clear,45 mins,6 mins, 10.5,13.88,18.5,cash , norwich,front only
+J0016,C001,Aug 08 2025,1pm,13:46,weed/tidy, 46,13,24.2mi,15.72,20.5, card,CASTON , 
+J0304,C020,20/12/2025,1pm,14:49,leaf clear,109,6 , 21.8,33.61,18.5,bank xfer,Dereham,bins blocking gate
+J0222,C010,2025-10-24,10:00,11:29,grass cut, 89, 10,21.2,31.15,21.0,CASH,Derham,
+J0343,c024,16 Jul 2025,13:00,14:41,grass cut,101 mins,7,12.7mi,36.19,21.5,bank transfer,Mulbarton, 
+ J0342,c024,2025-06-18,10:00,11:22,grass cut,82,6,12.5,28.02,20.5,BANK TRANSFER,mulbarton,
+J0315,C021,07/05/2025,10:00,11:09,grass cut,69 mins, 11,23.1mi,23.00 ,20.0,cash ,Caston,rear access
+J0105,C003,2025/12/03,08:30,09:54,pressure-wash,84 mins,6 mins,10.4 miles,28.7,20.5,card,Mulbarton,rear access
+J0043,C002,Apr 23 2025,8am,09:29,Hedge Trim,89 mins,6 ,9.4, 34.12,23.0, cash,Norwich city,leave invoice
+J0061,c002,2025/08/27,09:30,10:29,mow,59 mins,6 ,7.1 miles,21.63 ,22.0,Cash, norwich,rear access
+J0218,C010,29/08/2025,08.00,09:47,grass cut,107 mins, 16, 19.3,33.88,19.0,CARD,Derham,
+J0193,C009,21 May 2025,09.00,10:22,Lawn Cut,82,7,16.8mi,25.97,19.0,Card,ashwellthorpe,leave invoice
+J0457,C032,26/02/2025,8:00,09:09,leaf clearance,69 mins, 6,12.0 miles,£24.15,21.0,Cash,Hethersett,customer not home
+J0168, C007,2025-08-27,9am,10:10,Lawn Cut, 70,6, 17.4,21.00 ,18.0,cash ,ashwellthorpe,rear access
+ J0215,C010,2025/07/18,14:00,15:29,Lawn Cut, 89,6,15.6,27.44,18.5, bank transfer,Dereham,leave invoice
+J0422, C028,2025/06/04,14:00,15:12,Weed & Tidy, 72, 7,32.0mi,23.4,19.5,bank transfer,Saham Tony,bins blocking gate
+j0416,c028,12/03/2025,14:30,15:33,Weed & Tidy,63,11 mins,25.0 miles,22.05,21.0,debit card,SahamToney,
+ J0013,C001 ,27-06-2025,08:00,08:40,mow,40,16, 25.8,12,18.0,bank transfer ,Caston,bins blocking gate
+J0026,C001,2025-12-26,13.00,13:51,leaf clearance,51, 12,24.6mi,16.57,19.5,card,Caston ,customer not home
+J0141,C007,19/02/2025,9:00,10:20,hedge trim,80 mins,6 mins,17.2mi,£30,22.5, cash,ashwellthorpe, 
+J0386,C-027,16/07/2025,9:00,09:38,mow, 38,13 , 9.8,12.98,20.5,CARD,hethersett,
+J0267,C020,2025/04/05,08:30,09:49,mow, 79, 13, 21.3,£27.65,21.0,bank xfer,Derham,leave invoice
+J0259,C019,08-10-2025,14:00,14:52,leaf clear, 52,17 mins,18.0 miles,18.2,21.0,bank transfer ,Attleborough ,
+J0114,C005,23-04-2025,14:00,15:16,hedges, 76,12 ,21.9mi,28.5,22.5,bank transfer ,Besthorpe ,leave invoice
+J0020,C001,03/10/2025,10:00,10:53,Lawn Cut, 53,7 ,22.7 miles, 16.34,18.5,CARD,caston,
+J0424 ,C028,Jul 02 2025,14:00,15:10,lawn-cut, 70,18 mins,21.8mi,22.17,19.0,card,saham toney,rear access
+J0224,C010,Nov 21 2025,1pm,14:14,Leaf Clearance,74,6 mins,17.9 miles,22.2,18.0,BANK TRANSFER,DEREHAM,
+ J0472,C033,26/03/2025,8am,08:50,lawn cut,50,11, 10.7,£18.33,22.0, bank transfer,Hethersett,bins blocking gate
+j0119,C005,02/07/2025,9am,09:52,weeding,52 mins,9 mins,17.4,15.6,18.0,bank xfer,Besthorpe,
+J0415,C028,2025-02-26,14:00,14:54,weed & tidy, 54, 6,26.2 miles,£18.45,20.5,CARD,saham toney,rear access
+J0378,C027,2025/05/21,09.00,09:48,weed/tidy, 48, 9,13.4,16,20.0,cash ,Hethersett,bins blocking gate
+J0366 ,C027,2025-02-26,08:00,09:12,pressure-wash,72 mins,14 ,11.4 miles, 23.40,19.5,card,hethersett,customer not home
+J0316,C021,21/05/2025,8:00,09:26,hedge-trim,86,11 mins,25.1,34.40 ,24.0, card,caston,front only
+J0115,C005 ,May 07 2025,13.00,14:09,Lawn Cut,69, 15,17.4mi,£25.3,22.0,bank xfer,Besthorpe ,
+J0408,C027,17-12-2025,10:00,10:42,weeding,42,6 ,10.7mi,12.60 ,18.0,BANK TRANSFER,Hethersett ,bins blocking gate
+ J0269,C020,19/04/2025,10:00,11:28,grass cut,88,13 mins,25.5mi,£30.07,20.5, bank transfer,Dereham, 
+J0268,C020,12-04-2025,09:30,10:54,grass cut, 84, 6,16.8,25.90 ,18.5,bank transfer,dereham,
+J0128,C005,05-11-2025,14:00,15:02,hedge-trim,62 mins,12 mins,19.7 miles,24.80 ,24.0,CARD,Besthorpe ,
+J0056,C-002,23/07/2025,08:30,09.34,weed/tidy,64 mins,9 ,4.7 miles,20.27,19.0,card,Norich,bins blocking gate
+J0293,c020,2025/10/04,13:30,15:02,mow,92,-10,16.1,29.13 ,19.0,debit card,dereham,front only
+J0207,C010,28/03/2025,08:00,09:38,grass cut,98 mins,6 , 19.6,35.12,21.5,card ,DEREHAM,front only
+J0032,C002,Feb 05 2025,10:00,11:32,jet wash, 92, 6, 6.4,34.5,22.5,cash ,NORWICH,front only
+J0051,C002,18 Jun 2025,14:00,15:05,hedge-trim,65 mins,6 , 6.9,26.54,24.5,debit card,Norwich ,bins blocking gate
+J0028,C002,08 Jan 2025,14:00,15:23,pressure wash,83 mins,8,8.5 miles,28.36,20.5,card,Norwich city,leave invoice
+J0365,C027,19/02/2025,13.00,14:03,hedge-trim,63 mins,6,17.0,23.62,22.5,BANK TRANSFER,Hethersett,customer not home
+J0211,C010,23-05-2025,08.00,09:28,tidy up,88 mins,6,21.7 miles,27.87,19.0,Card,DEREHAM,rear access
+J0477,C033,2025-08-13,14:00,14:48,grass cut, 48,6, 14.8,15.6,19.5,bank xfer,Hetherset,bins blocking gate
+J0439,C029,29 Jan 2025,13:30,14:54,leaves, 84,17 ,17.9 miles,30.8,22.0,cash,Wymondham ,
+J0221,C010,10 Oct 2025,8am,09:55,hedge trim, 115, 8, 17.6,42.17,22.0, card,Dereham,leave invoice
+J0483,C034,2025-09-05,14:00,15:33,Hedge Trim, 93,10,11.1 miles,37.98,24.5,cash,Hethersett ,
+J0049,C002,04-06-2025,09:30,10:47,hedge-trim,77,7 mins,7.6mi,28.88,22.5,debit card,Norich,customer not home
+J0098, C003,03/09/2025,14:30,15:36,leaf clearance,66, 6,11.9mi,19.8,18.0,cash ,Mulbarton,
+J0209,C-010,25-04-2025,10:00,11:37,Weed & Tidy, 97,6 ,22.1,£32.33,20.0,bacs,Dereham,
+J0443,C029 ,21/05/2025,09:00,10:57,Hedge Trim, 117,6 ,17.3,44.85,23.0,cash,Wymondhm,rear access
+J0125,C005,24 Sep 2025,9am,10:21,hedges, 81, 11, 19.5,30.38,22.5,debit card,Besthorpe,bins blocking gate
+J0243,C014,14 Dec 2025,09.00,10:49,pressure wash,109,6 mins, 14.3,36.33 ,20.0,Cash,poringland,bins blocking gate
+J0068,c002,15/10/2025,13:30,14:37,leaf clear,67 mins,6 , 6.9,20.66,18.5,Bank Transfer, norwich,front only
+J0110,C005,26 Feb 2025,2:30pm,15:25,leaves,55,17 mins,24.0,20.62,22.5, card,Besthorpe ,bins blocking gate
+J0465,C032,08-10-2025,14:00,15:10,lawn-cut, 70,9 ,13.0 miles,23.92,20.5,Bank Transfer,Hetherset,bins blocking gate
+J0446,C029,2025/08/13,08:30,10:19,hedge trim, 109,6 mins, 12.7,42.69,23.5,CARD,wymondham,leave invoice
+J0122,C005 ,2025/08/13,14:00,14:50,mow, 50,6 ,16.8mi,17.08,20.5,card ,Besthorpe ,
+J0264,C020,15/03/2025,08:30,10:20,weed & tidy,110 mins,17,17.7,34.83,19.0,cash,DEREHAM,rear access
+J0287,C020,23 Aug 2025,09:30,10:37,mow, 67,6 mins,21.9 miles,24.01,21.5,bacs,DEREHAM,rear access
+J0170,C007,10/09/2025,08:00,09:08,Lawn Cut,68,6,13.2mi,24.37,21.5,Card,ashwellthorpe,
+J0411,C028,2025/01/01,08:30,09:50,hedge-trim,80 mins, 6, 26.3,31.33,23.5,bank transfer ,Saham Toney,
+J0035, C002,Feb 26 2025,9:00,10:06,leaf clear,66 mins,10,3.4, 23.10,21.0, bank transfer,Norwich ,
+J0290,C020,2025/09/13,09:30,10:45,leaf clearance, 75, 6,19.8mi, 22.50,18.0,card ,Dereham,
+J0031,c002,Jan 29 2025,08:30,10:04,Pressure Wash, 94, 6,15.3 miles,31.33,20.0,bank transfer , norwich,leave invoice
+J0432,C028,2025-10-22,9am,10:14,hedges, 74,10 mins,30.0 miles,28.37,23.0,CASH,Saham Toney,customer not home
+J0004,C001,07/03/2025,08.00,08:48,grass cut,48 mins,6 mins,26.5 miles,14.8,18.5,CARD,caston,
+J0392,C027,Aug 27 2025,14:00,14:48,Lawn Cut,48,6 , 10.7, 15.20,19.0,Card,Hetherset,leave invoice
+J0412,C028,15-01-2025,8:00,09:13,leaf clearance,73, 7,26.1,23.12,19.0,bank transfer ,Saham Tony,customer not home
+J0362,C027,29/01/2025,1pm,14:08,pressure-wash,68 mins,6 mins,8.6, 22.10,19.5,CARD,hethersett,
+J0011,C001,May 30 2025,09:30,10:39,hedge trim,69, 11,23.5,28.17,24.5,bacs,CASTON ,
+J0174,C007,08-10-2025,09:30,10:41,leaf clear,71, 6,16.4 miles,21.3,18.0,CARD,ashwellthorpe,
+j0369,C027,Mar 19 2025,8am,08:38,Lawn Cut,38 mins,6,8.5 miles,12.67 ,20.0,cash ,Hethersett ,bins blocking gate
+j0116,C005,2025-05-21,14:00,15:08,weeding,68 mins, 6,18.1mi,20.97 ,18.5,card,besthorpe,rear access
+J0393,C027,2025-09-03,14:00,15:09,tidy up, 69, 7,13.0mi,£26.45,23.0, card,Hethersett,customer not home
+J0062,C002,03/09/2025,9:00,10:19,hedges,79 mins, 6,2.8,30.94 ,23.5, cash,NORWICH,customer not home
+J0232,C013,Aug 05 2025,09:30,11:07,grass cut,97,9, 8.8,30.72,19.0,CASH,hethersett,rear access
+J0265,C020,Mar 22 2025,14:00,15:49,mow,109,7,19.2 miles,35.42,19.5,debit card,Dereham,
+J0225,C-010,2025/12/05,1pm,14:19,Leaf Clearance,79,-10,14.9mi,24.36,18.5,card ,Derham,leave invoice
+J0335,C023,2025/11/25,8:00,09:21,leaf clearance,81, 9,20.6mi,24.98,18.5,bank transfer ,Besthorpe ,customer not home
+J0384,C027,02/07/2025,10:00,10:44,lawn-cut, 44,6, 15.2,14.67,20.0,card ,Hethersett ,front only
+J0160,C007 ,02 Jul 2025,14:30,15:20,weed & tidy,50, 7,14.2,17.50 ,21.0,CARD,ashwellthorpe, 
+J0103,C003,2025/11/05,14:00,15:18,Hedge Trim,78 mins, 12, 14.4,30.55,23.5,card,Mulbarton,rear access
+J0333,c022,10/06/2025,14:00,15:36,Lawn Cut,96,6,21.9 miles,35.2,22.0,Card,Caston,
+J0402,C027,2025-11-05,14.30,15:25,hedge trim,55 mins,6,12.8,22.00 ,24.0,Card,hethersett,rear access
+J0371,C027,Apr 02 2025,09:00,10:07,Hedge Trim,67,6,15.0mi,25.68,23.0,card ,Hetherset,customer not home
+J0364,C027 ,12-02-2025,14:00,15:20,hedge trim,80 mins,6 ,13.0 miles,29.33,22.0,cash,Hetherset,leave invoice
+J0395,C027,2025/09/17,13.00,14:20,Hedge Trim,80,11 ,16.7 miles, 32.67,24.5,cash,hethersett,bins blocking gate
+J0085,C003,12-03-2025,08:30,09:38,lawn-cut,68 mins,6 mins, 15.0,24.37,21.5,cash ,Mulbarton,front only
+ J0282, C020,2025-07-19,8am,09:11,lawn-cut, 71,12 mins, 19.8,21.3,18.0,Cash,DEREHAM,
+J0244,C015,28 Oct 2025,9am,09:45,Leaf Clearance,45,12, 6.2,15,20.0,card ,Cringleford,customer not home
+J0066,C002,01 Oct 2025,9am,10:15,weed/tidy,75 mins, 6,7.5 miles,23.75 ,19.0,Cash,Norwich ,bins blocking gate
+J0065,C002,24/09/2025,09.00,09:53,Leaf Clearance, 53,7,7.4mi,18.55,21.0,cash ,NORWICH,bins blocking gate
+J0273,C020 ,17 May 2025,8am,09:15,lawn-cut, 75,10,13.3 miles,22.5,18.0,debit card,Derham,bins blocking gate
+J0458,C032,2025/03/26,2:30pm,15:39,tidy up,69 mins,15,8.6 miles,£25.3,22.0, card,Hethersett,leave invoice
+J0249,C019,Jan 01 2025,9am,10:29,pressure wash, 89,6 ,12.1,28.93,19.5, card,attleborough,customer not home
+J0044,C002,2025-04-30,13:30,14:24,Weed & Tidy, 54,9, 7.1,18.9,21.0,card ,Norwich,
+J0452,C030,05-09-2025,13.00,14:03,leaf clear,63, 6,10.3mi,18.9,18.0,BANK TRANSFER,poringland,leave invoice
+J0405,C027,2025-11-26,8:00,09:08,hedge-trim,68,6 ,6.6,26.07,23.0,debit card,Hethersett ,customer not home
+J0124,C-005,2025/09/10,1pm,13:51,weed & tidy, 51,15 ,14.4 miles,15.3,18.0,BANK TRANSFER,Besthorpe ,rear access
+ J0030,C002,22/01/2025,13.00,14:26,hedge trim,86 mins, 6,8.6 miles,32.97,23.0,Bank Transfer, norwich,rear access
+J0123,C005,2025-08-27,14:00,15:15,weeding,75,13 ,16.8mi,25.62,20.5,bacs,Besthorpe,
+J0158,C-007,Jun 18 2025,14:00,15:12,hedges,72 mins,12 ,17.2mi,£27,22.5,bank transfer ,Ashwell Thorpe,front only
+J0388,C027,Jul 30 2025,08.00,08:48,lawn cut,48 mins,9 , 14.2,£15.6,19.5,cash,Hethersett ,customer not home
+J0420,C028,07 May 2025,08:30,09:42,mow,72 mins,11,20.7,24,20.0, bank transfer,saham toney,bins blocking gate
+J0010,C001,2025/05/16,08:30,09:28,hedges, 58,9 ,21.5,21.27,22.0,CASH,Caston,bins blocking gate
+J0251,c019,26/02/2025,13:00 ,13:45,leaves,45,6 mins, 17.8,14.25,19.0,card,Attleborough ,customer not home
+J0166,C007,2025-08-13,8:00,08:54,lawn-cut,54,8 mins,17.8mi,18.9,21.0,bank transfer ,ashwellthorpe,leave invoice
+J0307,C021,2025/01/15,14:00,15:19,hedges, 79,6,23.0,29.62,22.5, card,Caston,leave invoice
+J0001,C001,24/01/2025,14:00,14:53,weed & tidy,53 mins,8 mins,21.7 miles,15.9,18.0, cash,Caston ,
+J0272,C020,2025/05/10,14:00,15:15,grass cut,75,6 , 23.5,23.75,19.0,card,dereham,customer not home
+J0277,C020,Jun 14 2025,9am,10:44,lawn-cut,104 mins,6 ,22.4, 34.67,20.0,card ,dereham,leave invoice
+J0083,C003 ,12 Feb 2025,13:00,14:16,hedge-trim,76 mins,6 ,11.3 miles, 29.77,23.5,CASH,Mulbarton,rear access
+ J0192,C009,23-04-2025,13:30,15:01,grass cut, 91,12,13.8, 31.85,21.0,bank transfer,ashwellthorpe,rear access
+j0375,C027,Apr 30 2025,9am,09:51,weed/tidy,51 mins, 6,19.6 miles,17.43,20.5,debit card,Hethersett,leave invoice
+J0102,c003,22 Oct 2025,10:00,11:07,grass cut,67, 6,10.4mi,20.10 ,18.0,card ,mulbarton,
+J0431,c028,2025/10/08,13.00,13:54,lawn cut,54 mins, 11,24.2 miles,16.65 ,18.5,BANK TRANSFER,Saham Tony,
+J0437,C028,2025-12-31,08:30,09:33,Weed & Tidy, 63,17 ,23.5mi,£21,20.0,cash ,SahamToney,bins blocking gate
+J0421,C028,21/05/2025,10:00,10:54,weeding,54,18 mins,22.2 miles,17.1,19.0,Cash,SahamToney,
+J0153,C007,14 May 2025,13.00,13:54,grass cut, 54,7,16.7mi, 18.90,21.0,cash,Ashwell Thorpe,customer not home
+J0321,C021,2025-07-30,8am,09:15,weed/tidy,75 mins,11,22.1 miles,23.12,18.5, card,caston,leave invoice
+J0055,C002,16 Jul 2025,10:00,11:13,lawn cut,73 mins,6 mins,4.3mi,24.33,20.0, cash,Norwich,front only
+J0260,C019,05-11-2025,14:00,15:23,Pressure Wash,83 mins,7 mins,14.3 miles,31.12 ,22.5,cash,Attleboro,customer not home
+J0092,C003,Jun 18 2025,09:30,10:39,grass cut, 69,11, 10.1,24.72,21.5,bank xfer,Mulbarton,front only
+J0257,C019,13-08-2025,1pm,13:53,weeding,53,8 ,21.6 miles, 18.11,20.5, cash,attleborough,
+J0389,C027,06/08/2025,9:00,09:47,lawn-cut,47 mins,6,13.0,15.67,20.0,bacs,Hethersett,customer not home
+J0002,C001,2025-02-07,08.00,08:47,leaf clearance, 47,11 mins, 18.5,16.45,21.0,Cash,Caston ,customer not home
+J0445, C029,16/07/2025,8am,09:36,lawn cut,96,6, 14.2,31.2,19.5, cash,Wymondham ,customer not home
+ J0081,C003,15/01/2025,10:00,11:07,leaf clearance, 67,6,17.7,21.78,19.5, card,mulbarton,leave invoice
+J0223,C010,2025/11/07,09:30,11:26,jet wash,116,6,18.1, 42.53,22.0,bacs,Derham,rear access
+J0468, C032,Dec 31 2025,10:00,11:37,hedges, 97, 6,13.0mi,37.99,23.5,bank transfer,Hetherset,
+J0058,C002,Aug 06 2025,13.00,14:00,Lawn Cut,60 mins,6,7.2,20.5,20.5,debit card, norwich,
+J0018,C001 ,05/09/2025,14:00,15:04,weeding,64 mins,7 mins, 23.2,22.4,21.0,Bank Transfer,Casten, 
+J0329, C021,2025-11-19,8:00,08:50,weed & tidy,50,9,23.8,15.42,18.5,bank transfer,CASTON ,bins blocking gate
+J0436,c028,2025/12/17,14:00,15:21,hedge trim,81,12, 26.8,32.40 ,24.0,CASH,SahamToney,front only
+ J0473,C033,2025-04-23,10:00,10:53,hedge trim,53,6 , 9.8, 19.88,22.5,BANK TRANSFER,Hethersett ,leave invoice
+J0481,C033,03/12/2025,9am,09:52,hedge-trim,52, 6,11.5 miles,19.93 ,23.0,BANK TRANSFER,hethersett,rear access
+J0059,C002,13/08/2025,13:00,14:04,weeding,64 mins,6 , 7.2,20.27,19.0,Cash,Norich,rear access
+J0372,C027,2025/04/09,09:30,10:08,lawn-cut, 38,6,11.0,12.03 ,19.0, bank transfer,Hetherset, 
+J0006,C001,04 Apr 2025,14:00,15:14,hedge trim, 74,15 ,20.8 miles,£29.6,24.0,bank transfer,Caston ,leave invoice
+J0284,C020,02/08/2025,14:00,15:47,Weed & Tidy,107 mins, 6,21.1mi,36.56,20.5,Cash,Derham,rear access
+J0129,C005,2025/11/19,09:00,10:09,hedges,69,6 , 19.8,27.02,23.5, cash,Besthorpe,rear access
+J0271,C020,03 May 2025,10:00,11:42,Lawn Cut,102 mins,6 , 22.6,34,20.0,bacs,dereham,customer not home
+J0240,C013,25 Nov 2025,09:30,10:50,hedge-trim, 80,10 ,14.9,£32.67,24.5,card ,Hethersett,leave invoice
+j0370,c027,Mar 26 2025,1030,11:06,lawn-cut, 36,9 mins, 14.1,12.3,20.5,debit card,Hethersett,front only
+J0196 ,C009,2025-08-13,09:00,10:33,Lawn Cut,93 mins,6 mins, 14.9,31.78,20.5,CASH,ashwellthorpe,customer not home
+J0198,c009,08/10/2025,1pm,14:12,tidy up, 72,11 , 17.0, 23.40,19.5,CARD,Ashwellthorpe,customer not home
+J0033,C002,12/02/2025,14:00,15:12,hedge trim, 72,6 , 2.9,£27,22.5,card ,Norwich ,leave invoice
+J0306,C021,01-01-2025,13:00 ,14:22,hedge-trim,82,11 ,20.9mi, 32.12,23.5,Bank Transfer,caston,
+J0217,C010,15-08-2025,14:00,15:30,mow,90,6, 20.1,30.75 ,20.5, cash,Dereham,front only
+j0349,C024,2025/12/31,14:00,15:37,weeding, 97,6 ,14.3mi,30.72,19.0,cash ,Mulbarton,bins blocking gate
+J0082,C003,29-01-2025,8am,08:53,leaves, 53,6,12.9mi,18.11 ,20.5,card,Mulbarton,front only
+J0466,C032,2025-11-05,14:00,14:53,leaves,53 mins,6 mins, 11.7, 19.88,22.5,cash,Hethersett ,rear access
+j0079,C002,31-12-2025,14:00,15:20,Hedge Trim, 80,6 mins,8.7mi,30.67,23.0,BANK TRANSFER, norwich,rear access
+J0057,c002,2025-07-30,08.00,09:12,grass cut,72 mins,6 ,11.5mi,21.6,18.0, cash,Norwich ,customer not home
+J0025,C001,12-12-2025,09.00,10:16,Pressure Wash,76 mins,6, 21.5,27.87,22.0,BANK TRANSFER,CASTON , 
+J0047,C002,21/05/2025,1pm,13:57,lawn-cut,57,6,8.6,17.57 ,18.5,CASH,Norwich ,customer not home
+j0253,C019 ,23-04-2025,10:00,10:39,lawn-cut,39,11 mins, 21.1,13.33,20.5,Card,Attleborough ,customer not home
+J0261,C019,03/12/2025,09:30,10:33,pressure-wash,63 mins,10 mins,14.2mi,24.15,23.0,cash,Attleborough,customer not home
+J0071,C002,05-11-2025,8am,09:10,leaf clearance,70 mins,6, 10.1,22.17,19.0,Card, norwich,leave invoice
+J0418,C-028,2025/04/09,14:30,15:27,lawn-cut, 57,14 mins,28.2 miles,20.90 ,22.0,BANK TRANSFER,SahamToney,front only
+J0462,C032,2025-07-16,14:00,15:09,tidy up,69 mins,6 mins,6.6 miles,24.15,21.0, card,Hethersett ,leave invoice
+J0205,C010,28 Feb 2025,14:00,15:30,hedge-trim, 90,8 ,20.6 miles,36.75,24.5,card,DEREHAM,leave invoice
+J0299,C020,15-11-2025,9:00,10:22,leaves, 82,6 ,16.4mi,26.65,19.5,debit card,dereham,rear access
+J0220,C010,26-09-2025,13:30,14:23,leaves, 53,6 mins, 21.7, 19.88,22.5,bank xfer,Derham,leave invoice
+J0300,C020 ,22/11/2025,08.00,09:41,hedge trim, 101,13 mins, 19.0,37.88,22.5,Card,Dereham,rear access
+J0383,C027,25-06-2025,9am,09:51,mow, 51,6 ,9.6,17.85 ,21.0,bank transfer,Hethersett,
+J0135, C007,08 Jan 2025,13:30,14:37,Leaf Clearance,67,14,17.8 miles,£20.66,18.5,Card,Ashwell Thorpe,
+J0276,c020,07-06-2025,8am,09:03,Lawn Cut,63 mins,6, 18.0,23.1,22.0,bank xfer,Derham,customer not home
+J0288,C020,30 Aug 2025,13:30,14:52,lawn cut,82,18 ,20.2mi,24.6,18.0, card,dereham,leave invoice
+J0382,C027,18-06-2025,10:00,10:52,grass cut,52 mins,6 ,14.5,18.63,21.5,Card,Hethersett ,leave invoice
+J0127,C005,22 Oct 2025,14:00,15:15,leaf clearance, 75,15 ,19.5, 25.00,20.0,debit card,besthorpe,
+J0072, C002,2025-11-12,10:00,11:07,Leaf Clearance,67, 6,5.2,21.22,19.0,Cash,Norwich,customer not home
+J0478,C033,Sep 10 2025,1pm,13:37,weed/tidy,37 mins, 6, 10.0,11.72 ,19.0,BANK TRANSFER,Hethersett ,customer not home
+J0074,C002 ,26 Nov 2025,9:00,09:54,weed/tidy,54,6,10.7,18.45 ,20.5,BANK TRANSFER, norwich,leave invoice
+J0235,C013,Sep 16 2025,13:00 ,14:21,mow, 81,8,12.5 miles,29.7,22.0,BANK TRANSFER,Hetherset,rear access
+J0330,C021,2025-12-03,08.00,09:22,hedge trim,82 mins,7 , 14.0,32.8,24.0,card ,caston,rear access
+J0203,C-010,Jan 31 2025,14:00,15:33,hedge-trim,93,6 mins,23.2 miles,38.75,25.0,CARD,Derham,
+J0256,C019,2025-07-16,09:00,09:44,mow,44,9 , 19.8, 13.57,18.5,CARD,Attleborough,rear access
+J0336,C024,2025/01/01,08:00,10:08,hedges,128, 8,9.5,48.00 ,22.5, card,Mulbarton,leave invoice
+J0406,C-027,Dec 03 2025,10:00,10:46,Leaf Clearance,46,6 ,10.0mi,£14.18,18.5,Bank Transfer,Hethersett,
+J0410,C027,2025/12/31,08:30,09:15,leaf clear,45 mins, 9,14.6,15.38,20.5,Cash,Hethersett,customer not home
+ J0368, C027,2025/03/12,08:00,08:39,weeding,39 mins, 6,8.9, 12.68,19.5,debit card,Hetherset,rear access
+J0291,C020,20/09/2025,09:30,11:21,Hedge Trim,111,10 mins,22.6,40.7,22.0,Bank Transfer,Dereham,customer not home
+J0109 ,C005,12/02/2025,10:00,10:50,tidy up, 50,12 mins, 16.5,18.75,22.5,CASH,Besthorpe,bins blocking gate
+J0034,C002 ,19-02-2025,13:30,14:22,Weed & Tidy,52 mins,6 mins,18.0,£17.77,20.5,bacs, norwich,rear access
+J0138,C007,29 Jan 2025,8:00,08:52,Leaf Clearance, 52, 6,19.0mi,17.33,20.0,bank transfer,Ashwellthorpe,
+J0206,C010,14/03/2025,10:00,11:20,lawn cut,80,6 mins,18.8 miles,25.33,19.0,bank transfer,dereham,leave invoice
+J0162,C007 ,Jul 16 2025,13:00,14:11,Weed & Tidy,71,6,17.1mi,23.07,19.5,CASH,Ashwellthorpe,leave invoice
+J0017,C001,Aug 22 2025,08:00,08:47,Weed & Tidy,47,16,24.1 miles, 14.10,18.0,CARD,Caston ,front only
+J0118,c005,Jun 18 2025,9am,10:14,Weed & Tidy,74 mins, 7, 18.1,25.28,20.5,Card,besthorpe,
+J0029,C002,2025/01/15,13:00 ,14:35,jet wash,95, 6,6.0 miles, 37.21,23.5,BANK TRANSFER, norwich,front only
+ J0398,C027,08-10-2025,1430,15:15,leaves,45 mins, 16,15.7,16.88,22.5,bank transfer,hethersett,bins blocking gate
+J0394,C027,2025-09-10,09:00,09:52,lawn cut,52,6,8.4mi,17.33,20.0,Bank Transfer,Hethersett,
+J0167,C007,2025-08-20,09:30,10:49,hedges, 79, 6, 15.6,32.26,24.5, bank transfer,Ashwell Thorpe,customer not home
+J0351,C025,2025/11/23,1030,11:23,Leaf Clearance,53 mins,7,12.4 miles,17.22,19.5,Cash,Ashwellthorpe,rear access
+J0113,C005,2025/04/09,8am,09:05,weed & tidy, 65,7 , 17.2,£20.04,18.5,card ,besthorpe,bins blocking gate
+J0286,C020,16/08/2025,14:00,15:19,Lawn Cut,79, 10, 19.4, 26.99,20.5,bank transfer,dereham,leave invoice
+J0353,C026,Jan 29 2025,09:00,10:16,Hedge Trim,76 mins,6 mins,17.8,29.13,23.0,cash,Attleborough ,rear access
+J0328,c021,05-11-2025,09.00,10:28,pressure-wash, 88,8,23.3 miles,29.33,20.0,debit card,CASTON ,customer not home
+J0139,C007,Feb 05 2025,8am,08:52,Leaf Clearance,52,6 ,12.0mi,£17.77,20.5,BANK TRANSFER,Ashwell Thorpe,bins blocking gate
+J0447,C029,10-09-2025,8am,09:31,tidy up, 91,6,15.8,31.09 ,20.5,Cash,wymondham,front only
+J0237,C013,14 Oct 2025,10:00,11:10,lawn cut, 70,6 ,12.8mi,23.92,20.5,card ,Hethersett ,leave invoice
+J0441 ,C029,26-03-2025,9am,10:04,weed/tidy,64,6 , 7.6,22.40 ,21.0, cash,wymondham,front only
+J0126,c005,Oct 08 2025,08.00,09:13,grass cut,73, 9,19.2mi,22.51,18.5,CARD,Besthorpe , 
+j0475,c033,18/06/2025,14:30,15:15,weed & tidy,45 mins,9 mins,9.0mi,£15,20.0, bank transfer,Hethersett ,leave invoice
+J0274,C020,May 24 2025,13:00 ,14:10,weeding,70 mins,6 , 20.6,23.33 ,20.0, card,dereham,customer not home
+J0088,C003,2025/04/23,08:30,09:33,Lawn Cut,63, 8,14.2,£22.57,21.5,card,mulbarton,front only
+J0449,C029,2025/11/05,13:00 ,14:59,Pressure Wash, 119, 6,18.2 miles,45.62,23.0, card,Wymondham ,
+J0312,c021,26/03/2025,09:00,10:02,tidy up, 62,6 mins,21.9 miles,21.7,21.0,card,Casten,front only
+J0037,C002,12-03-2025,10.30,11:37,grass cut,67,6 , 8.4,£20.66,18.5,card,Norwich,bins blocking gate
+J0332,C-021,31-12-2025,9am,10:27,Pressure Wash, 87,12,23.5 miles,27.55,19.0,cash ,Caston ,rear access
+J0350,C025 ,2025/07/31,1pm,13:38,lawn cut,38 mins,6,15.7mi,13.30 ,21.0,cash ,Ashwellthorpe,front only
+J0360,C027,Jan 15 2025,14:00,15:01,hedge trim, 61,8 ,14.5 miles,23.89,23.5,bank transfer ,Hethersett,customer not home
+J0137,C007,22-01-2025,09:00,10:36,hedge trim, 96,12 ,15.2 miles,39.2,24.5,Bank Transfer,Ashwell Thorpe,customer not home
+J0344,C024,2025/08/13,9am,10:07,mow, 67,8 mins,14.4mi,21.22,19.0,Card,mulbarton,
+J0108,c004,13 Oct 2025,08:30,09:36,hedge-trim,66,7,18.2,24.75,22.5,BANK TRANSFER,Hingam,
+J0182,C007,2025/12/03,10:00,11:08,leaf clearance, 68,8,11.6 miles,23.23,20.5,Card,Ashwell Thorpe,
+J0190,C009,2025/02/26,08:30,10:14,pressure wash,104 mins,6 mins, 13.8,37.27 ,21.5,cash,Ashwellthorpe,customer not home
+J0084,C-003,26 Feb 2025,08:00,09:07,weed & tidy,67 mins,6 , 10.7,22.89,20.5,bank transfer,Mulbarton,front only
+J0187,C008,Jan 17 2025,13:30,14:07,leaf clear,37 mins,12 , 12.2,£11.1,18.0, cash,mulbarton,customer not home
+J0428,C028,Aug 27 2025,9:00,10:06,lawn-cut,66, 6,25.8mi, 19.80,18.0,cash ,SahamToney,customer not home
+J0326, C021,2025-10-08,13:00 ,14:28,hedge trim,88 mins,8 mins,23.6mi,33,22.5,Bank Transfer,Caston,leave invoice
+J0233,C013,Aug 19 2025,08:00,09:48,weeding, 108,6 mins,13.3 miles,34.20 ,19.0, bank transfer,Hetherset,bins blocking gate
+J0390,C027,13 Aug 2025,1pm,13:46,lawn cut,46 mins,6 mins, 10.1,15.72 ,20.5,bacs,hethersett,
+J0484,C035,17/03/2025,8am,08:47,lawn cut, 47,6 mins,18.6 miles, 16.45,21.0, cash,Old Bukenham,
+J0052,C-002,Jun 25 2025,13:00 ,13:54,lawn-cut,54,6 ,8.8 miles,17.1,19.0,card , norwich, 
+J0444,C029,2025/06/18,10:30,12:23,hedge-trim,113 mins,6,20.5,43.32,23.0,bank xfer,Wymondhm,customer not home
+J0120,C005,16-07-2025,10:00,11:15,Lawn Cut, 75,12,19.0mi,26.25,21.0,Card,Besthorpe ,bins blocking gate
+J0438,C029,2025/01/01,10:00,11:43,leaf clearance,103,13 mins,11.9, 33.48,19.5,Cash,Wymondhm,front only
+J0470,C033,2025/01/29,8:00,09:12,Pressure Wash,72, 6,7.3 miles,22.8,19.0, bank transfer,Hetherset, 
+J0149,C007,16-04-2025,09.00,10:14,grass cut, 74,6,13.1 miles, 25.90,21.0,cash,Ashwell Thorpe,rear access
+J0396,c027,2025/09/24,13:00,13:50,weed/tidy,50,10,12.2 miles,17.5,21.0,Card,Hetherset,leave invoice
+J0117,C005,04-06-2025,1430,15:41,grass cut,71 mins, 7,14.0mi,24.85,21.0,card,Besthorpe ,leave invoice
+J0339,C024,26-03-2025,09:30,10:42,weed & tidy,72 mins, 6,7.9 miles,25.2,21.0,Bank Transfer,Mulbarton,customer not home
+J0024,C001,28 Nov 2025,09:00,09:41,Leaf Clearance, 41,6 ,26.3mi,14.35,21.0,card,Caston ,rear access
+J0036,C002,05/03/2025,13:00 ,14:10,mow,70 mins, 6,5.8mi,22.75,19.5,cash ,Norich,bins blocking gate
+J0361,C027,Jan 22 2025,13:00 ,14:20,hedge trim,80,6,13.2mi,32.67 ,24.5, bank transfer,hethersett,leave invoice
+J0099,C003,2025/09/10,13:00,13:57,weed & tidy,57 mins,6 ,15.9mi,18.05,19.0,CARD,Mulbarton, 
+J0296,C020,2025-10-25,10:00,11:57,hedge-trim,117 mins, 9,18.0,44.85,23.0,card,dereham,
+J0186,C007 ,Dec 31 2025,14:00,15:19,hedge-trim,79,6 ,13.9mi,32.26,24.5,Bank Transfer,ashwellthorpe,
+J0442,C029,23-04-2025,13:00,14:46,hedge trim, 106,7,9.8,£41.52,23.5,bacs,Wymondham ,
+J0454,C031,28-12-2025,08:30,09:16,leaf clear,46 mins,15 ,21.9 miles,14.57,19.0,debit card,Old Buckenham,front only
+J0317,C021,Jun 04 2025,09:30,10:24,tidy up, 54,6 ,29.3,18.00 ,20.0, cash,Casten,
+J0322,C-021,13/08/2025,14:00,15:07,mow, 67, 16,23.6 miles, 22.89,20.5,bacs,Caston ,
+j0425,C028,16/07/2025,08.00,08:51,lawn cut, 51,14,24.7mi,18.27,21.5,BANK TRANSFER,Saham Toney,front only
+J0151,C-007,30/04/2025,10:00,11:07,mow,67 mins,7 mins,14.5mi,24.57,22.0, bank transfer,ashwellthorpe,front only
+J0283,C020,2025-07-26,14:00,15:03,lawn cut,63,6 mins,20.3mi,£23.1,22.0,bank xfer,Derham,
+J0041,C002 ,09-04-2025,9:00,10:03,lawn-cut,63,6,2.0mi,22.05 ,21.0,bank transfer,Norwich ,rear access
+J0194,C009,Jun 18 2025,1pm,14:48,hedge trim,108,8 mins,16.2,39.60 ,22.0,card,Ashwell Thorpe,
+J0064,C002,2025-09-17,14:00,15:23,hedge-trim, 83,6 mins,8.0mi,33.89,24.5,bacs, norwich,
+J0275,C020,2025/05/31,10:00,11:39,hedge trim, 99, 6, 20.0,36.3,22.0,card,DEREHAM,customer not home
+J0236,C013,2025-09-30,14:00,15:23,tidy up, 83, 6,8.0mi,29.05,21.0, card,Hethersett ,customer not home
+J0374,C027,Apr 23 2025,14:00,14:48,grass cut,48,6,11.1,16.8,21.0,bank transfer,Hethersett ,bins blocking gate
+J0023,C001,14 Nov 2025,14:00,14:38,leaf clearance,38, 6,20.9mi,12.67 ,20.0, cash,Caston,front only
+J0414,C028,2025-02-12,9am,10:03,leaf clearance,63 mins,12 mins,30.0 miles, 19.95,19.0,CARD,SahamToney,leave invoice
+J0136,C007,15-01-2025,10:00,11:07,Weed & Tidy,67,6,21.5 miles,21.78,19.5,Bank Transfer,Ashwell Thorpe,
+J0310,C021,2025-02-26,13:30,14:43,Leaf Clearance,73 mins, 10,24.6 miles,25.55,21.0,bank xfer,Caston,front only
+J0177,C007 ,29-10-2025,14:00,15:06,Lawn Cut, 66,7,11.1,£19.8,18.0, card,ashwellthorpe,front only
+J0434, C028,19/11/2025,14:00,15:34,hedge trim, 94,6,24.1 miles,£38.38,24.5,cash ,SahamToney,
+J0184,C007,17-12-2025,09:30,10:45,Weed & Tidy,75, 6,9.5,25.62,20.5,card,Ashwell Thorpe,customer not home
+ J0050,C002,11-06-2025,10:00,11:07,Lawn Cut,67,6, 8.5,20.10 ,18.0,bacs,Norwich ,leave invoice
+j0195, C009,16-07-2025,13.00,14:50,grass cut,110, 10,16.8mi, 39.42,21.5,bacs,ashwellthorpe,rear access
+J0048,C002,28-05-2025,14:30,15:36,grass cut,66, 6,8.6,24.2,22.0,CASH,Norwich ,rear access
+J0053,C002,02/07/2025,9:00,10:02,mow,62 mins,6 mins,3.4mi,20.15,19.5,bacs, norwich,bins blocking gate
+J0173, C007,2025/10/01,08:00,08:56,weeding,56,12,5.4 miles, 16.80,18.0, card,Ashwellthorpe,front only
+ J0391, C027,20-08-2025,8:00,09:20,hedge-trim, 80,10,15.6 miles, 32.00,24.0,Bank Transfer,Hethersett ,leave invoice
+j0111,c005,Mar 12 2025,09:30,10:42,Lawn Cut,72, 7,18.7mi,22.2,18.5,bank transfer,besthorpe,customer not home
+J0080,C003,2025-01-01,13.00,13:55,weeding,55 mins,6 mins,16.6 miles,16.96,18.5, card,Mulbarton,bins blocking gate
+J0143,C007,2025/03/05,10:00,11:25,hedges,85,7 ,15.1,33.29,23.5,debit card,Ashwellthorpe,leave invoice
+j0175,C007,2025/10/15,08.00,08:55,Weed & Tidy,55 mins,6,14.7 miles,17.88,19.5,card ,Ashwell Thorpe,rear access

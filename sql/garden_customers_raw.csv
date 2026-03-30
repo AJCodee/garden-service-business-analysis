@@ -1,0 +1,36 @@
+customer_id,customer_name,signup_date,location,postcode_area,service_plan,preferred_day,preferred_time,status,property_size,acquisition_channel,notes
+C-010,Isla Hunt,Jan 17 2025,DEREHAM,NR19,F/nightly,FRIDAY ,1430,Inactive,large,google,
+ C013,William Bell,Jun 24 2025,Hethersett ,NR9,fortnightly ,THURSDAY,09:00,INACTIVE ,large,facebook,cash most visits
+C006,Matilda Harvey,12 Jun 2024,Dereham,NR19,one off,thurs,1430,lost,small,referral, 
+C021,Finn Gould,16 Jan 2024,caston,NR17 ,fortnightly,tues,09:00,churned,medium,google,
+C032,Charlie Kemp,2024-10-15,Hethersett,NR9,Monthly,Wed,9am,active,medium,board,
+C023,Lily Sawyer,13-05-2025,besthorpe,NR17,one-off ,weds,9am,Inactive,large,Google Search,gate code at rear
+c030,Freya Cooper,10-06-2024,Poringland,NR14,ONE-OFF,FRIDAY ,10:30,inactive,medium,repeat,gate code at rear
+C017,Mabel Knight,15-05-2024,hingham,NR9,one-off ,Friday,1430,churned,medium ,face book,
+C027,Archie Chapman,28 Jul 2024,Hethersett ,NR9, WEEKLY,Wed,09:00,Active,small,referral,invoice end of month
+C025,Nancy Dawson,2024-03-23,Ashwell Thorpe,NR16,one-off,Mon,1430,current,small,board,
+C015,Molly Cook,Mar 06 2024,Cringleford,NR4,one-off ,FRIDAY ,1430,inactive,small,referral,prefers text before arrival
+C011,Ivy Frost,24-04-2024,NORWICH,NR1,one-off ,WEDNESDAY ,09:00,Active,small,sign board,prefers text before arrival
+C012,Poppy Palmer,May 12 2025,wymondham,NR18,ONE-OFF,FRIDAY ,09.00,Churned,small,google,dog in back garden
+C028,Arthur Wright,19 Nov 2024,Saham Tony,IP25,2-weekly,mon,08:00,Churned,medium,repeat,prefers text before arrival
+C009,Eva Howard,01 Jul 2024,ashwellthorpe,NR16,Monthly,Mon,10:30,active,large,google,cash most visits
+C020,Olivia Turner,2025/03/08,DEREHAM,NR19,weekly,Thu,9am,active,large,referral,prefers text before arrival
+C031 ,Mia Marshall,02-11-2024,Old Bukenham,NR17,one-off ,Mon,09.00,current,small,board,dog in back garden
+C007,Noah Barker,14 Sep 2024,Ashwellthorpe,NR16, WEEKLY,MONDAY ,08:00,lost,medium,google,invoice end of month
+C026,Alice Pearce,2024-09-09,Attleborough,NR17,mthly,Mon,14.30,ACTIVE ,small,facebook,access via side path
+C001,Henry Mason,2025-01-24,CASTON ,NR17,Fortnightly,Wednesday,9am,current,small,referral,invoice end of month
+C034,George Bennett,14-06-2024,Hethersett,NR9,One off,fri,1pm,churned,,referral,dog in back garden
+C014 ,Harry Cole,12 Feb 2025,Poringland,NR14,one-off,WEDNESDAY ,13:00 ,ACTIVE ,large,google,cash most visits
+ C019,Jacob Fisher,2024-03-03,Attleborough,NR17,Monthly,Wed,08:00,Active,small,referral,
+C-003,Jack Bailey,27/02/2024,Mulbarton,NR14 ,F/nightly,mon,10:30 AM,active,medium,referral,access via side path
+C033,Alfie Gibson,22-02-2024,Hetherset,NR9,monthly ,THURSDAY,10:30,Active,small,referral,dog in back garden
+C029,Leo Cross,2024-08-06,Wymondham,NR18,Monthly,TUESDAY,10:30,active,large,board,access via side path
+C022,Theo Mills,17-06-2024,Caston ,NR17,ONE-OFF,Thu,1030,Inactive,large,facebook,invoice end of month
+C004,Florence Riley,May 26 2025,Hingam,NR9,one-off,thurs,9:00,INACTIVE ,small ,referral,invoice end of month
+C024,Amelia Clarke,28-02-2024,mulbarton,NR14,Monthly,THURSDAY,2:30pm,ACTIVE ,large,google,gate code at rear
+C005,Edward Brooks,2025-02-12,besthorpe,NR17,Fortnightly,tues,14:30,current,Medium,facebook,n/a
+C035,Thomas Ward,06-02-2024,Old Bukenham,NR17,ONE-OFF,fri,1430,not active,SMALL,referral,invoice end of month
+C016,Oscar Webb,Aug 22 2024,Casten,NR17,One off,MONDAY ,10.30,INACTIVE ,small,word of mouth,
+ C018,Rosie Parker,2024/04/06,Hingam,NR9,ONE-OFF,thurs,1030,INACTIVE ,medium,google,gate code at rear
+C002 ,Elsie Wood,24/06/2024,Norich,NR4,wkly,Tue,9am,Active,medium,referral,cash most visits
+C008,Daisy Burton,24-04-2024,Mulbarton,NR14,ONE-OFF,Tue,13:00,INACTIVE ,small,facebook,invoice end of month
