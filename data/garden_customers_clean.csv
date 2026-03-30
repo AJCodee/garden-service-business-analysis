@@ -1,0 +1,36 @@
+"customer_id","customer_name","location","postcode_area","service_plan","preferred_day","status","property_size","acquisition_channel","signup_date","preferred_time"
+C013,William Bell,Hethersett,NR9,fortnightly,Thursday,inactive,large,Facebook,2025-06-24,09:00:00
+C032,Charlie Kemp,Hethersett,NR9,monthly,Wednesday,active,medium,Board,2024-10-15,09:00:00
+C027,Archie Chapman,Hethersett,NR9,weekly,Wednesday,active,small,Referral,2024-07-28,09:00:00
+C021,Finn Gould,Caston,NR17 ,fortnightly,Tuesday,churned,medium,Google Search,2024-01-16,09:00:00
+C025,Nancy Dawson,Ashwellthorpe,NR16,one-off,Monday,active,small,Board,2024-03-23,14:30:00
+C010,Isla Hunt,Dereham,NR19,fortnightly,Friday,inactive,large,Google Search,2025-01-17,14:30:00
+C006,Matilda Harvey,Dereham,NR19,one-off,Thursday,churned,small,Referral,2024-06-12,14:30:00
+C023,Lily Sawyer,Besthorpe,NR17,one-off,Wednesday,inactive,large,Google Search,2025-05-13,09:00:00
+C030,Freya Cooper,Poringland,NR14,one-off,Friday,inactive,medium,Repeat,2024-06-10,10:30:00
+C017,Mabel Knight,Hingham,NR9,one-off,Friday,churned,medium,Facebook,2024-05-15,14:30:00
+C034,George Bennett,Hethersett,NR9,one-off,Friday,churned,unknown,Referral,2024-06-14,13:00:00
+C033,Alfie Gibson,Hethersett,NR9,monthly,Thursday,active,small,Referral,2024-02-22,10:30:00
+C015,Molly Cook,Cringleford,NR4,one-off,Friday,inactive,small,Referral,2024-03-06,14:30:00
+C012,Poppy Palmer,Wymondham,NR18,one-off,Friday,churned,small,Google Search,2025-05-12,09:00:00
+C028,Arthur Wright,Saham Tony,IP25,weekly,Monday,churned,medium,Repeat,2024-11-19,08:00:00
+C020,Olivia Turner,Dereham,NR19,weekly,Thursday,active,large,Referral,2025-03-08,09:00:00
+C019,Jacob Fisher,Attleborough,NR17,monthly,Wednesday,active,small,Referral,2024-03-03,08:00:00
+C026,Alice Pearce,Attleborough,NR17,monthly,Monday,active,small,Facebook,2024-09-09,14:30:00
+C014,Harry Cole,Poringland,NR14,one-off,Wednesday,active,large,Google Search,2025-02-12,13:00:00
+C003,Jack Bailey,Mulbarton,NR14 ,fortnightly,Monday,active,medium,Referral,2024-02-27,10:30:00
+C029,Leo Cross,Wymondham,NR18,monthly,Tuesday,active,large,Board,2024-08-06,10:30:00
+C004,Florence Riley,Hingam,NR9,one-off,Thursday,inactive,small,Referral,2025-05-26,09:00:00
+C024,Amelia Clarke,Mulbarton,NR14,monthly,Thursday,active,large,Google Search,2024-02-28,14:30:00
+C005,Edward Brooks,Besthorpe,NR17,fortnightly,Tuesday,active,medium,Facebook,2025-02-12,14:30:00
+C018,Rosie Parker,Hingam,NR9,one-off,Thursday,inactive,medium,Google Search,2024-04-06,10:30:00
+C008,Daisy Burton,Mulbarton,NR14,one-off,Tuesday,inactive,small,Facebook,2024-04-24,13:00:00
+C011,Ivy Frost,Norwich,NR1,one-off,Wednesday,active,small,Board,2024-04-24,09:00:00
+C002,Elsie Wood,Norwich,NR4,weekly,Tuesday,active,medium,Referral,2024-06-24,09:00:00
+C031,Mia Marshall,Old Buckenham,NR17,one-off,Monday,active,small,Board,2024-11-02,09:00:00
+C035,Thomas Ward,Old Buckenham,NR17,one-off,Friday,inactive,small,Referral,2024-02-06,14:30:00
+C001,Henry Mason,Caston,NR17,fortnightly,Wednesday,active,small,Referral,2025-01-24,09:00:00
+C022,Theo Mills,Caston,NR17,one-off,Thursday,inactive,large,Facebook,2024-06-17,10:30:00
+C016,Oscar Webb,Caston,NR17,one-off,Monday,inactive,small,Word Of Mouth,2024-08-22,10:30:00
+C009,Eva Howard,Ashwellthorpe,NR16,monthly,Monday,active,large,Google Search,2024-07-01,10:30:00
+C007,Noah Barker,Ashwellthorpe,NR16,weekly,Monday,churned,medium,Google Search,2024-09-14,08:00:00
