@@ -1,0 +1,487 @@
+"job_id","customer_id","job_date","job_type","job_duration_mins","travel_time_mins","distance_miles","price_gbp","hourly_rate_gbp","payment_method","location"
+J0430,C028,2025-09-24,Weed and Tidy,64,11,23.90,24.00,24,Debit Card,Saham Toney
+J0147,C007,2025-04-02,Hedge Trim,93,6,20.80,18.00,18,Card,Ashwellthorpe
+J0042,C002,2025-04-16,Hedge Trim,84,6,5.70,33.60,24,Card,Norwich
+J0176,C007,2025-10-22,Leaf Clearance,54,10,22.30,16.20,18,Cash,Ashwellthorpe
+J0054,C002,2025-07-09,Grass Cut,65,6,8.10,24.00,24,Bank Transfer,Norwich
+J0161,C007,2025-07-09,Weed and Tidy,56,8,19.50,16.80,18,Card,Ashwellthorpe
+J0172,C007,2025-09-24,Grass Cut,56,6,15.10,16.80,18,Debit Card,Ashwellthorpe
+J0427,C028,2025-08-13,Grass Cut,58,7,21.80,23.20,24,Bank Transfer,Saham Toney
+J0440,C029,2025-02-26,Weed and Tidy,106,6,15.00,38.87,22,Card,Wymondham
+J0426,C028,2025-07-30,Grass Cut,65,10,25.40,26.00,24,Bank Transfer,Saham Toney
+J0313,C021,2025-04-09,Grass Cut,57,8,23.50,20.90,22,Bank Transfer,Caston
+J0132,C005,2025-12-31,Hedge Trim,72,6,17.00,25.20,21,Bank Transfer,Besthorpe
+J0377,C027,2025-05-14,Grass Cut,54,6,10.20,18.90,21,Card,Hethersett
+J0107,C003,2025-12-31,Pressure Wash,90,6,17.20,34.50,23,Cash,Mulbarton
+J0045,C002,2025-05-07,Hedge Trim,79,6,8.20,31.60,24,Bank Transfer,Norwich
+J0169,C007,2025-09-03,Grass Cut,55,12,14.00,18.00,18,Card,Ashwellthorpe
+J0423,C028,2025-06-18,Grass Cut,61,6,21.90,24.40,24,Card,Saham Toney
+J0471,C033,2025-02-26,Weed and Tidy,39,6,13.30,11.70,18,Card,Hethersett
+J0212,C010,2025-06-06,Grass Cut,93,6,23.20,27.90,18,Cash,Dereham
+J0359,C027,2025-01-08,Leaf Clearance,42,16,13.40,14.70,21,Bank Transfer,Hethersett
+J0216,C010,2025-08-01,Grass Cut,83,16,17.20,24.90,18,Card,Dereham
+J0448,C029,2025-10-08,Weed and Tidy,108,6,14.40,22.00,22,Cash,Wymondham
+J0324,C021,2025-09-10,Leaf Clearance,72,11,17.00,22.00,22,Bank Transfer,Caston
+J0380,C027,2025-06-04,Weed and Tidy,46,6,14.60,16.10,21,Bank Transfer,Hethersett
+J0022,C001,2025-10-31,Hedge Trim,60,6,23.70,18.00,18,Card,Caston
+J0334,C023,2025-08-22,Grass Cut,95,6,22.30,30.08,19,Card,Besthorpe
+J0106,C003,2025-12-17,Pressure Wash,80,6,9.00,30.67,23,Debit Card,Mulbarton
+J0089,C003,2025-05-07,Grass Cut,55,6,9.80,23.00,23,Bank Transfer,Mulbarton
+J0140,C007,2025-02-12,Weed and Tidy,74,12,23.30,18.00,18,Cash,Ashwellthorpe
+J0094,C003,2025-07-16,Grass Cut,51,9,16.80,23.00,23,Bank Transfer,Mulbarton
+J0476,C033,2025-07-16,Weed and Tidy,50,6,10.80,15.00,18,Bank Transfer,Hethersett
+J0356,C026,2025-04-23,Grass Cut,46,6,20.60,17.63,23,Card,Attleborough
+J0258,C019,2025-09-10,Leaf Clearance,63,6,17.30,25.20,24,Bank Transfer,Attleborough
+J0086,C003,2025-03-26,Weed and Tidy,57,6,9.00,21.85,23,Bank Transfer,Mulbarton
+J0303,C020,2025-12-13,Hedge Trim,80,6,23.40,21.00,21,Card,Dereham
+J0325,C021,2025-09-24,Grass Cut,75,19,19.70,27.50,22,Cash,Caston
+J0399,C027,2025-10-15,Hedge Trim,80,6,8.50,28.00,21,Card,Hethersett
+J0456,C032,2025-01-29,Hedge Trim,78,12,11.60,19.00,19,Bank Transfer,Hethersett
+J0252,C019,2025-03-26,Grass Cut,40,9,19.20,16.00,24,Bank Transfer,Attleborough
+J0046,C002,2025-05-14,Grass Cut,67,14,11.80,26.80,24,Bank Transfer,Norwich
+J0183,C007,2025-12-10,Hedge Trim,85,6,14.80,25.50,18,Cash,Ashwellthorpe
+J0305,C020,2025-12-27,Leaf Clearance,87,10,21.00,21.00,21,Cash,Dereham
+J0202,C010,2025-01-17,Pressure Wash,105,6,20.40,31.50,18,Bank Transfer,Dereham
+J0156,C007,2025-06-04,Hedge Trim,79,6,15.00,23.70,18,Bank Transfer,Ashwellthorpe
+J0229,C013,2025-06-24,Hedge Trim,107,6,13.20,41.02,23,Bank Transfer,Hethersett
+J0199,C009,2025-11-05,Leaf Clearance,76,7,19.10,19.00,19,Card,Ashwellthorpe
+J0480,C033,2025-11-05,Weed and Tidy,52,10,13.90,15.60,18,Bank Transfer,Hethersett
+J0093,C003,2025-07-02,Weed and Tidy,69,6,13.20,23.00,23,Cash,Mulbarton
+J0075,C002,2025-12-03,Leaf Clearance,54,6,11.30,21.60,24,Bank Transfer,Norwich
+J0181,C007,2025-11-26,Hedge Trim,80,8,14.30,24.00,18,Cash,Ashwellthorpe
+J0070,C002,2025-10-29,Hedge Trim,83,6,2.00,24.00,24,Card,Norwich
+J0279,C020,2025-06-28,Weed and Tidy,88,7,19.00,30.80,21,Bank Transfer,Dereham
+J0327,C021,2025-10-22,Grass Cut,55,6,22.30,20.17,22,Bank Transfer,Caston
+J0461,C032,2025-06-18,Weed and Tidy,64,6,11.30,20.27,19,Card,Hethersett
+J0348,C024,2025-12-03,Leaf Clearance,71,5,13.60,29.58,25,Bank Transfer,Mulbarton
+J0248,C018,2025-01-06,Pressure Wash,88,11,19.30,27.87,19,Bank Transfer,Hingham
+J0354,C026,2025-02-26,Pressure Wash,75,6,15.60,28.75,23,Cash,Attleborough
+J0091,C003,2025-06-04,Weed and Tidy,55,9,10.70,23.00,23,Cash,Mulbarton
+J0208,C010,2025-04-11,Grass Cut,71,6,23.30,21.30,18,Bank Transfer,Dereham
+J0376,C027,2025-05-07,Weed and Tidy,43,8,9.30,15.05,21,Card,Hethersett
+J0397,C027,2025-10-01,Leaf Clearance,63,6,9.20,22.05,21,Bank Transfer,Hethersett
+J0314,C021,2025-04-23,Grass Cut,51,6,24.50,22.00,22,Bank Transfer,Caston
+J0226,C010,2025-12-19,Weed and Tidy,82,9,21.40,24.60,18,Cash,Dereham
+J0469,C033,2025-01-01,Hedge Trim,57,6,17.40,17.10,18,Card,Hethersett
+J0460,C032,2025-05-21,Hedge Trim,93,6,7.40,19.00,19,Bank Transfer,Hethersett
+J0219,C010,2025-09-12,Hedge Trim,98,16,20.90,29.40,18,Cash,Dereham
+J0385,C027,2025-07-09,Hedge Trim,57,6,5.40,19.95,21,Bank Transfer,Hethersett
+J0459,C032,2025-04-23,Grass Cut,70,6,15.30,19.00,19,Cash,Hethersett
+J0340,C024,2025-04-23,Hedge Trim,107,8,13.20,44.58,25,Card,Mulbarton
+J0144,C007,2025-03-12,Grass Cut,52,11,14.70,15.60,18,Bank Transfer,Ashwellthorpe
+J0163,C007,2025-07-23,Grass Cut,70,6,25.40,21.00,18,Card,Ashwellthorpe
+J0012,C001,2025-06-13,Grass Cut,55,6,24.30,16.50,18,Bank Transfer,Caston
+J0007,C001,2025-04-18,Grass Cut,53,7,20.30,15.90,18,Bank Transfer,Caston
+J0294,C020,2025-10-11,Grass Cut,101,6,22.40,21.00,21,Bank Transfer,Dereham
+J0148,C007,2025-04-09,Grass Cut,50,6,17.70,18.00,18,Cash,Ashwellthorpe
+J0238,C013,2025-10-28,Grass Cut,79,9,14.40,30.28,23,Bank Transfer,Hethersett
+J0373,C027,2025-04-16,Hedge Trim,80,10,15.60,28.00,21,Cash,Hethersett
+J0429,C028,2025-09-10,Grass Cut,61,10,22.70,24.40,24,Bank Transfer,Saham Toney
+J0171,C007,2025-09-17,Grass Cut,63,9,15.90,18.90,18,Cash,Ashwellthorpe
+J0318,C021,2025-06-18,Weed and Tidy,66,8,27.90,24.20,22,Debit Card,Caston
+J0345,C024,2025-09-10,Grass Cut,83,10,12.00,25.00,25,Bank Transfer,Mulbarton
+J0409,C027,2025-12-24,Pressure Wash,74,6,13.90,25.90,21,Card,Hethersett
+J0133,C006,2025-06-11,Grass Cut,38,12,23.60,24.00,24,Cash,Dereham
+J0281,C020,2025-07-12,Weed and Tidy,79,6,20.70,27.65,21,Bank Transfer,Dereham
+J0463,C032,2025-08-13,Weed and Tidy,52,6,10.90,16.47,19,Cash,Hethersett
+J0433,C028,2025-11-05,Pressure Wash,86,5,19.00,34.40,24,Bank Transfer,Saham Toney
+J0381,C027,2025-06-11,Grass Cut,38,9,13.50,21.00,21,Bank Transfer,Hethersett
+J0096,C003,2025-08-13,Weed and Tidy,68,6,5.90,26.07,23,Bank Transfer,Mulbarton
+J0014,C001,2025-07-11,Hedge Trim,61,6,22.40,18.00,18,Card,Caston
+J0242,C013,2025-12-23,Weed and Tidy,104,6,14.40,39.87,23,Bank Transfer,Hethersett
+J0204,C010,2025-02-14,Pressure Wash,87,6,20.90,26.10,18,Debit Card,Dereham
+J0142,C007,2025-02-26,Leaf Clearance,58,6,16.60,17.40,18,Bank Transfer,Ashwellthorpe
+J0320,C021,2025-07-16,Weed and Tidy,63,6,26.80,22.00,22,Bank Transfer,Caston
+J0027,C002,2025-01-01,Leaf Clearance,52,6,7.20,24.00,24,Cash,Norwich
+J0154,C007,2025-05-21,Hedge Trim,80,8,13.90,24.00,18,Card,Ashwellthorpe
+J0165,C007,2025-08-06,Weed and Tidy,70,10,15.00,21.00,18,Card,Ashwellthorpe
+J0078,C002,2025-12-24,Pressure Wash,78,6,7.10,31.20,24,Card,Norwich
+J0289,C020,2025-09-06,Hedge Trim,80,6,14.40,21.00,21,Cash,Dereham
+J0185,C007,2025-12-24,Pressure Wash,82,6,16.30,24.60,18,Cash,Ashwellthorpe
+J0073,C002,2025-11-19,Leaf Clearance,72,6,3.80,28.80,24,Bank Transfer,Norwich
+J0095,C003,2025-07-30,Grass Cut,55,14,12.10,21.08,23,Bank Transfer,Mulbarton
+J0178,C007,2025-11-05,Pressure Wash,92,8,18.30,18.00,18,Bank Transfer,Ashwellthorpe
+J0090,C003,2025-05-21,Hedge Trim,86,6,11.90,23.00,23,Bank Transfer,Mulbarton
+J0155,C007,2025-05-28,Grass Cut,66,6,17.50,19.80,18,Bank Transfer,Ashwellthorpe
+J0157,C007,2025-06-11,Grass Cut,62,6,15.10,18.60,18,Bank Transfer,Ashwellthorpe
+J0130,C005,2025-12-03,Leaf Clearance,68,10,21.40,23.80,21,Bank Transfer,Besthorpe
+J0417,C028,2025-03-26,Weed and Tidy,71,18,23.70,28.40,24,Bank Transfer,Saham Toney
+J0379,C027,2025-05-28,Hedge Trim,72,9,10.90,25.20,21,Cash,Hethersett
+J0352,C026,2025-01-01,Leaf Clearance,35,6,18.50,13.42,23,Cash,Attleborough
+J0338,C024,2025-02-26,Hedge Trim,123,7,14.20,51.25,25,Cash,Mulbarton
+J0164,C007,2025-07-30,Grass Cut,56,6,12.80,16.80,18,Cash,Ashwellthorpe
+J0302,C020,2025-12-06,Pressure Wash,130,17,22.20,21.00,21,Card,Dereham
+J0003,C001,2025-02-21,Hedge Trim,52,8,19.50,18.00,18,Card,Caston
+J0019,C001,2025-09-19,Weed and Tidy,46,18,24.60,13.80,18,Bank Transfer,Caston
+J0168,C007,2025-08-27,Grass Cut,70,6,17.40,18.00,18,Cash,Ashwellthorpe
+J0285,C020,2025-08-09,Grass Cut,87,6,24.80,30.45,21,Card,Dereham
+J0077,C002,2025-12-17,Leaf Clearance,67,6,6.60,26.80,24,Bank Transfer,Norwich
+J0407,C027,2025-12-10,Pressure Wash,80,6,14.00,28.00,21,Bank Transfer,Hethersett
+J0337,C024,2025-01-29,Pressure Wash,130,13,14.10,54.17,25,Card,Mulbarton
+J0435,C028,2025-12-03,Weed and Tidy,57,13,24.20,22.80,24,Bank Transfer,Saham Toney
+J0297,C020,2025-11-01,Weed and Tidy,64,6,19.50,21.00,21,Card,Dereham
+J0403,C027,2025-11-12,Leaf Clearance,46,6,13.50,16.10,21,Bank Transfer,Hethersett
+J0067,C002,2025-10-08,Weed and Tidy,60,6,8.70,24.00,24,Cash,Norwich
+J0230,C013,2025-07-08,Weed and Tidy,90,6,11.30,34.50,23,Bank Transfer,Hethersett
+J0134,C007,2025-01-01,Leaf Clearance,56,6,15.70,16.80,18,Debit Card,Ashwellthorpe
+J0145,C007,2025-03-19,Hedge Trim,89,12,15.40,18.00,18,Debit Card,Ashwellthorpe
+J0367,C027,2025-03-05,Grass Cut,67,6,16.90,23.45,21,Debit Card,Hethersett
+J0451,C029,2025-12-31,Leaf Clearance,91,6,12.40,33.37,22,Bank Transfer,Wymondham
+J0266,C020,2025-03-29,Weed and Tidy,82,10,19.10,28.70,21,Card,Dereham
+J0159,C007,2025-06-25,Grass Cut,66,6,17.90,19.80,18,Bank Transfer,Ashwellthorpe
+J0292,C020,2025-09-27,Hedge Trim,125,7,18.80,43.75,21,Bank Transfer,Dereham
+J0308,C021,2025-01-29,Hedge Trim,75,14,21.30,27.50,22,Card,Caston
+J0197,C009,2025-09-10,Grass Cut,72,6,13.30,22.80,19,Card,Ashwellthorpe
+J0246,C016,2025-09-10,Leaf Clearance,54,6,17.90,21.60,24,Cash,Caston
+J0146,C007,2025-03-26,Grass Cut,67,6,15.00,20.10,18,Card,Ashwellthorpe
+J0419,C028,2025-04-23,Grass Cut,50,11,28.20,20.00,24,Cash,Saham Toney
+J0104,C003,2025-11-19,Pressure Wash,85,6,12.80,23.00,23,Cash,Mulbarton
+J0228,C012,2025-07-29,Grass Cut,54,13,14.10,22.50,25,Cash,Wymondham
+J0092,C003,2025-06-18,Grass Cut,69,11,10.10,26.45,23,Cash,Mulbarton
+J0180,C007,2025-11-19,Hedge Trim,75,6,19.90,18.00,18,Card,Ashwellthorpe
+J0341,C024,2025-05-21,Grass Cut,110,6,11.60,45.83,25,Card,Mulbarton
+J0018,C001,2025-09-05,Weed and Tidy,64,7,23.20,19.20,18,Card,Caston
+J0166,C007,2025-08-13,Grass Cut,54,8,17.80,16.20,18,Bank Transfer,Ashwellthorpe
+J0021,C001,2025-10-17,Weed and Tidy,49,9,16.90,14.70,18,Card,Caston
+J0131,C005,2025-12-17,Leaf Clearance,73,6,13.80,25.55,21,Bank Transfer,Besthorpe
+J0191,C009,2025-03-26,Grass Cut,82,6,14.80,19.00,19,Cash,Ashwellthorpe
+J0319,C021,2025-07-02,Hedge Trim,72,6,24.20,26.40,22,Bank Transfer,Caston
+J0309,C021,2025-02-12,Hedge Trim,74,6,22.10,27.13,22,Cash,Caston
+J0363,C027,2025-02-05,Hedge Trim,78,9,8.80,27.30,21,Debit Card,Hethersett
+J0323,C021,2025-08-27,Grass Cut,53,13,21.30,19.43,22,Bank Transfer,Caston
+J0150,C007,2025-04-23,Grass Cut,70,6,16.20,21.00,18,Bank Transfer,Ashwellthorpe
+J0474,C033,2025-05-21,Hedge Trim,71,6,10.50,21.30,18,Cash,Hethersett
+J0404,C027,2025-11-19,Hedge Trim,79,8,8.00,27.65,21,Bank Transfer,Hethersett
+J0358,C027,2025-01-01,Hedge Trim,80,6,14.30,28.00,21,Card,Hethersett
+J0301,C020,2025-11-29,Weed and Tidy,94,7,24.30,21.00,21,Card,Dereham
+J0239,C013,2025-11-11,Pressure Wash,114,6,11.30,43.70,23,Bank Transfer,Hethersett
+J0234,C013,2025-09-02,Hedge Trim,115,7,13.90,23.00,23,Debit Card,Hethersett
+J0189,C009,2025-01-29,Pressure Wash,111,6,14.70,35.15,19,Bank Transfer,Ashwellthorpe
+J0453,C030,2025-11-10,Weed and Tidy,57,7,10.20,19.95,21,Card,Poringland
+J0015,C001,2025-07-25,Grass Cut,38,7,24.40,11.40,18,Bank Transfer,Caston
+J0346,C024,2025-10-08,Leaf Clearance,97,6,10.30,25.00,25,Card,Mulbarton
+J0076,C002,2025-12-10,Leaf Clearance,61,6,6.40,24.40,24,Cash,Norwich
+J0254,C019,2025-05-21,Grass Cut,45,13,20.20,24.00,24,Debit Card,Attleborough
+J0040,C002,2025-04-02,Grass Cut,60,6,5.90,24.00,24,Bank Transfer,Norwich
+J0387,C027,2025-07-23,Grass Cut,54,6,13.80,18.90,21,Bank Transfer,Hethersett
+J0482,C033,2025-12-31,Leaf Clearance,53,6,12.10,15.90,18,Cash,Hethersett
+J0311,C021,2025-03-12,Weed and Tidy,64,11,24.40,22.00,22,Bank Transfer,Caston
+J0278,C020,2025-06-21,Hedge Trim,123,6,17.70,43.05,21,Card,Dereham
+J0213,C010,2025-06-20,Grass Cut,101,6,23.50,30.30,18,Cash,Dereham
+J0188,C009,2025-01-01,Hedge Trim,107,6,21.20,33.88,19,Cash,Ashwellthorpe
+J0179,C007,2025-11-12,Pressure Wash,106,6,17.30,31.80,18,Bank Transfer,Ashwellthorpe
+J0250,C019,2025-01-29,Leaf Clearance,48,9,17.90,19.20,24,Card,Attleborough
+J0464,C032,2025-09-10,Hedge Trim,65,6,12.30,20.58,19,Cash,Hethersett
+J0455,C032,2025-01-01,Pressure Wash,82,6,11.40,19.00,19,Card,Hethersett
+J0214,C010,2025-07-04,Weed and Tidy,91,10,22.30,18.00,18,Cash,Dereham
+J0201,C009,2025-12-31,Hedge Trim,83,14,15.70,26.28,19,Cash,Ashwellthorpe
+J0357,C026,2025-07-10,Hedge Trim,76,17,17.50,29.13,23,Cash,Attleborough
+J0100,C003,2025-09-24,Weed and Tidy,69,6,11.00,26.45,23,Debit Card,Mulbarton
+J0331,C021,2025-12-17,Pressure Wash,99,15,21.90,36.30,22,Card,Caston
+J0270,C020,2025-04-26,Weed and Tidy,82,6,19.10,21.00,21,Card,Dereham
+J0227,C011,2025-11-04,Leaf Clearance,45,6,10.50,16.50,22,Cash,Norwich
+J0304,C020,2025-12-20,Leaf Clearance,109,6,21.80,21.00,21,Bank Transfer,Dereham
+J0222,C010,2025-10-24,Grass Cut,89,10,21.20,26.70,18,Cash,Dereham
+J0343,C024,2025-07-16,Grass Cut,101,7,12.70,42.08,25,Bank Transfer,Mulbarton
+J0342,C024,2025-06-18,Grass Cut,82,6,12.50,34.17,25,Bank Transfer,Mulbarton
+J0315,C021,2025-05-07,Grass Cut,69,11,23.10,25.30,22,Cash,Caston
+J0105,C003,2025-12-03,Pressure Wash,84,6,10.40,32.20,23,Card,Mulbarton
+J0043,C002,2025-04-23,Hedge Trim,89,6,9.40,24.00,24,Cash,Norwich
+J0061,C002,2025-08-27,Grass Cut,59,6,7.10,23.60,24,Cash,Norwich
+J0218,C010,2025-08-29,Grass Cut,107,16,19.30,18.00,18,Card,Dereham
+J0193,C009,2025-05-21,Grass Cut,82,7,16.80,19.00,19,Card,Ashwellthorpe
+J0457,C032,2025-02-26,Leaf Clearance,69,6,12.00,21.85,19,Cash,Hethersett
+J0215,C010,2025-07-18,Grass Cut,89,6,15.60,26.70,18,Bank Transfer,Dereham
+J0422,C028,2025-06-04,Weed and Tidy,72,7,32.00,28.80,24,Bank Transfer,Saham Toney
+J0416,C028,2025-03-12,Weed and Tidy,63,11,25.00,25.20,24,Debit Card,Saham Toney
+J0013,C001,2025-06-27,Grass Cut,40,16,25.80,12.00,18,Bank Transfer,Caston
+J0026,C001,2025-12-26,Leaf Clearance,51,12,24.60,18.00,18,Card,Caston
+J0141,C007,2025-02-19,Hedge Trim,80,6,17.20,24.00,18,Cash,Ashwellthorpe
+J0386,C027,2025-07-16,Grass Cut,38,13,9.80,13.30,21,Card,Hethersett
+J0267,C020,2025-04-05,Grass Cut,79,13,21.30,27.65,21,Bank Transfer,Dereham
+J0259,C019,2025-10-08,Leaf Clearance,52,17,18.00,20.80,24,Bank Transfer,Attleborough
+J0114,C005,2025-04-23,Hedge Trim,76,12,21.90,26.60,21,Bank Transfer,Besthorpe
+J0020,C001,2025-10-03,Grass Cut,53,7,22.70,15.90,18,Card,Caston
+J0424,C028,2025-07-02,Grass Cut,70,18,21.80,28.00,24,Card,Saham Toney
+J0224,C010,2025-11-21,Leaf Clearance,74,6,17.90,18.00,18,Bank Transfer,Dereham
+J0472,C033,2025-03-26,Grass Cut,50,11,10.70,18.00,18,Bank Transfer,Hethersett
+J0119,C005,2025-07-02,Weed and Tidy,52,9,17.40,21.00,21,Bank Transfer,Besthorpe
+J0415,C028,2025-02-26,Weed and Tidy,54,6,26.20,21.60,24,Card,Saham Toney
+J0378,C027,2025-05-21,Weed and Tidy,48,9,13.40,21.00,21,Cash,Hethersett
+J0004,C001,2025-03-07,Grass Cut,48,6,26.50,18.00,18,Card,Caston
+J0366,C027,2025-02-26,Pressure Wash,72,14,11.40,25.20,21,Card,Hethersett
+J0316,C021,2025-05-21,Hedge Trim,86,11,25.10,31.53,22,Card,Caston
+J0115,C005,2025-05-07,Grass Cut,69,15,17.40,21.00,21,Bank Transfer,Besthorpe
+J0408,C027,2025-12-17,Weed and Tidy,42,6,10.70,14.70,21,Bank Transfer,Hethersett
+J0269,C020,2025-04-19,Grass Cut,88,13,25.50,30.80,21,Bank Transfer,Dereham
+J0268,C020,2025-04-12,Grass Cut,84,6,16.80,29.40,21,Bank Transfer,Dereham
+J0128,C005,2025-11-05,Hedge Trim,62,12,19.70,21.70,21,Card,Besthorpe
+J0056,C002,2025-07-23,Weed and Tidy,64,9,4.70,24.00,24,Card,Norwich
+J0293,C020,2025-10-04,Grass Cut,92,10,16.10,32.20,21,Debit Card,Dereham
+J0207,C010,2025-03-28,Grass Cut,98,6,19.60,29.40,18,Card,Dereham
+J0032,C002,2025-02-05,Pressure Wash,92,6,6.40,36.80,24,Cash,Norwich
+J0051,C002,2025-06-18,Hedge Trim,65,6,6.90,26.00,24,Debit Card,Norwich
+J0028,C002,2025-01-08,Pressure Wash,83,8,8.50,33.20,24,Card,Norwich
+J0365,C027,2025-02-19,Hedge Trim,63,6,17.00,21.00,21,Bank Transfer,Hethersett
+J0211,C010,2025-05-23,Weed and Tidy,88,6,21.70,18.00,18,Card,Dereham
+J0477,C033,2025-08-13,Grass Cut,48,6,14.80,14.40,18,Bank Transfer,Hethersett
+J0439,C029,2025-01-29,Leaf Clearance,84,17,17.90,30.80,22,Cash,Wymondham
+J0221,C010,2025-10-10,Hedge Trim,115,8,17.60,18.00,18,Card,Dereham
+J0483,C034,2025-09-05,Hedge Trim,93,10,11.10,34.10,22,Cash,Hethersett
+J0049,C002,2025-06-04,Hedge Trim,77,7,7.60,30.80,24,Debit Card,Norwich
+J0098,C003,2025-09-03,Leaf Clearance,66,6,11.90,25.30,23,Cash,Mulbarton
+J0209,C010,2025-04-25,Weed and Tidy,97,6,22.10,29.10,18,Bank Transfer,Dereham
+J0443,C029,2025-05-21,Hedge Trim,117,6,17.30,42.90,22,Cash,Wymondham
+J0125,C005,2025-09-24,Hedge Trim,81,11,19.50,21.00,21,Debit Card,Besthorpe
+J0243,C014,2025-12-14,Pressure Wash,109,6,14.30,24.00,24,Cash,Poringland
+J0068,C002,2025-10-15,Leaf Clearance,67,6,6.90,26.80,24,Bank Transfer,Norwich
+J0110,C005,2025-02-26,Leaf Clearance,55,17,24.00,19.25,21,Card,Besthorpe
+J0465,C032,2025-10-08,Grass Cut,70,9,13.00,22.17,19,Bank Transfer,Hethersett
+J0446,C029,2025-08-13,Hedge Trim,109,6,12.70,39.97,22,Card,Wymondham
+J0122,C005,2025-08-13,Grass Cut,50,6,16.80,17.50,21,Card,Besthorpe
+J0287,C020,2025-08-23,Grass Cut,67,6,21.90,23.45,21,Bank Transfer,Dereham
+J0170,C007,2025-09-10,Grass Cut,68,6,13.20,20.40,18,Card,Ashwellthorpe
+J0411,C028,2025-01-01,Hedge Trim,80,6,26.30,32.00,24,Bank Transfer,Saham Toney
+J0035,C002,2025-02-26,Leaf Clearance,66,10,3.40,26.40,24,Bank Transfer,Norwich
+J0290,C020,2025-09-13,Leaf Clearance,75,6,19.80,26.25,21,Card,Dereham
+J0031,C002,2025-01-29,Pressure Wash,94,6,15.30,37.60,24,Bank Transfer,Norwich
+J0432,C028,2025-10-22,Hedge Trim,74,10,30.00,24.00,24,Cash,Saham Toney
+J0392,C027,2025-08-27,Grass Cut,48,6,10.70,16.80,21,Card,Hethersett
+J0412,C028,2025-01-15,Leaf Clearance,73,7,26.10,29.20,24,Bank Transfer,Saham Toney
+J0362,C027,2025-01-29,Pressure Wash,68,6,8.60,21.00,21,Card,Hethersett
+J0011,C001,2025-05-30,Hedge Trim,69,11,23.50,20.70,18,Bank Transfer,Caston
+J0174,C007,2025-10-08,Leaf Clearance,71,6,16.40,21.30,18,Card,Ashwellthorpe
+J0369,C027,2025-03-19,Grass Cut,38,6,8.50,21.00,21,Cash,Hethersett
+J0116,C005,2025-05-21,Weed and Tidy,68,6,18.10,23.80,21,Card,Besthorpe
+J0393,C027,2025-09-03,Weed and Tidy,69,7,13.00,24.15,21,Card,Hethersett
+J0062,C002,2025-09-03,Hedge Trim,79,6,2.80,31.60,24,Cash,Norwich
+J0232,C013,2025-08-05,Grass Cut,97,9,8.80,37.18,23,Cash,Hethersett
+J0265,C020,2025-03-22,Grass Cut,109,7,19.20,38.15,21,Debit Card,Dereham
+J0225,C010,2025-12-05,Leaf Clearance,79,10,14.90,18.00,18,Card,Dereham
+J0335,C023,2025-11-25,Leaf Clearance,81,9,20.60,25.65,19,Bank Transfer,Besthorpe
+J0384,C027,2025-07-02,Grass Cut,44,6,15.20,15.40,21,Card,Hethersett
+J0160,C007,2025-07-02,Weed and Tidy,50,7,14.20,15.00,18,Card,Ashwellthorpe
+J0103,C003,2025-11-05,Hedge Trim,78,12,14.40,29.90,23,Card,Mulbarton
+J0333,C022,2025-06-10,Grass Cut,96,6,21.90,32.00,20,Card,Caston
+J0402,C027,2025-11-05,Hedge Trim,55,6,12.80,21.00,21,Card,Hethersett
+J0371,C027,2025-04-02,Hedge Trim,67,6,15.00,23.45,21,Card,Hethersett
+J0364,C027,2025-02-12,Hedge Trim,80,6,13.00,28.00,21,Cash,Hethersett
+J0395,C027,2025-09-17,Hedge Trim,80,11,16.70,21.00,21,Cash,Hethersett
+J0085,C003,2025-03-12,Grass Cut,68,6,15.00,26.07,23,Cash,Mulbarton
+J0282,C020,2025-07-19,Grass Cut,71,12,19.80,21.00,21,Cash,Dereham
+J0244,C015,2025-10-28,Leaf Clearance,45,12,6.20,23.00,23,Card,Cringleford
+J0066,C002,2025-10-01,Weed and Tidy,75,6,7.50,24.00,24,Cash,Norwich
+J0065,C002,2025-09-24,Leaf Clearance,53,7,7.40,24.00,24,Cash,Norwich
+J0273,C020,2025-05-17,Grass Cut,75,10,13.30,21.00,21,Debit Card,Dereham
+J0458,C032,2025-03-26,Weed and Tidy,69,15,8.60,21.85,19,Card,Hethersett
+J0249,C019,2025-01-01,Pressure Wash,89,6,12.10,24.00,24,Card,Attleborough
+J0044,C002,2025-04-30,Weed and Tidy,54,9,7.10,21.60,24,Card,Norwich
+J0452,C030,2025-09-05,Leaf Clearance,63,6,10.30,21.00,21,Bank Transfer,Poringland
+J0405,C027,2025-11-26,Hedge Trim,68,6,6.60,23.80,21,Debit Card,Hethersett
+J0124,C005,2025-09-10,Weed and Tidy,51,15,14.40,21.00,21,Bank Transfer,Besthorpe
+J0030,C002,2025-01-22,Hedge Trim,86,6,8.60,24.00,24,Bank Transfer,Norwich
+J0123,C005,2025-08-27,Weed and Tidy,75,13,16.80,26.25,21,Bank Transfer,Besthorpe
+J0158,C007,2025-06-18,Hedge Trim,72,12,17.20,21.60,18,Bank Transfer,Ashwellthorpe
+J0388,C027,2025-07-30,Grass Cut,48,9,14.20,21.00,21,Cash,Hethersett
+J0420,C028,2025-05-07,Grass Cut,72,11,20.70,28.80,24,Bank Transfer,Saham Toney
+J0010,C001,2025-05-16,Hedge Trim,58,9,21.50,17.40,18,Cash,Caston
+J0251,C019,2025-02-26,Leaf Clearance,45,6,17.80,18.00,24,Card,Attleborough
+J0307,C021,2025-01-15,Hedge Trim,79,6,23.00,28.97,22,Card,Caston
+J0264,C020,2025-03-15,Weed and Tidy,110,17,17.70,38.50,21,Cash,Dereham
+J0001,C001,2025-01-24,Weed and Tidy,53,8,21.70,15.90,18,Cash,Caston
+J0272,C020,2025-05-10,Grass Cut,75,6,23.50,26.25,21,Card,Dereham
+J0277,C020,2025-06-14,Grass Cut,104,6,22.40,21.00,21,Card,Dereham
+J0083,C003,2025-02-12,Hedge Trim,76,6,11.30,29.13,23,Cash,Mulbarton
+J0192,C009,2025-04-23,Grass Cut,91,12,13.80,28.82,19,Bank Transfer,Ashwellthorpe
+J0375,C027,2025-04-30,Weed and Tidy,51,6,19.60,21.00,21,Debit Card,Hethersett
+J0102,C003,2025-10-22,Grass Cut,67,6,10.40,25.68,23,Card,Mulbarton
+J0431,C028,2025-10-08,Grass Cut,54,11,24.20,24.00,24,Bank Transfer,Saham Toney
+J0437,C028,2025-12-31,Weed and Tidy,63,17,23.50,25.20,24,Cash,Saham Toney
+J0421,C028,2025-05-21,Weed and Tidy,54,18,22.20,21.60,24,Cash,Saham Toney
+J0153,C007,2025-05-14,Grass Cut,54,7,16.70,18.00,18,Cash,Ashwellthorpe
+J0321,C021,2025-07-30,Weed and Tidy,75,11,22.10,22.00,22,Card,Caston
+J0055,C002,2025-07-16,Grass Cut,73,6,4.30,29.20,24,Cash,Norwich
+J0260,C019,2025-11-05,Pressure Wash,83,7,14.30,33.20,24,Cash,Attleborough
+J0092,C003,2025-06-18,Grass Cut,69,11,10.10,26.45,23,Bank Transfer,Mulbarton
+J0257,C019,2025-08-13,Weed and Tidy,53,8,21.60,24.00,24,Cash,Attleborough
+J0389,C027,2025-08-06,Grass Cut,47,6,13.00,16.45,21,Bank Transfer,Hethersett
+J0002,C001,2025-02-07,Leaf Clearance,47,11,18.50,18.00,18,Cash,Caston
+J0445,C029,2025-07-16,Grass Cut,96,6,14.20,22.00,22,Cash,Wymondham
+J0081,C003,2025-01-15,Leaf Clearance,67,6,17.70,25.68,23,Card,Mulbarton
+J0223,C010,2025-11-07,Pressure Wash,116,6,18.10,34.80,18,Bank Transfer,Dereham
+J0468,C032,2025-12-31,Hedge Trim,97,6,13.00,30.72,19,Bank Transfer,Hethersett
+J0058,C002,2025-08-06,Grass Cut,60,6,7.20,24.00,24,Debit Card,Norwich
+J0018,C001,2025-09-05,Weed and Tidy,64,7,23.20,19.20,18,Bank Transfer,Caston
+J0329,C021,2025-11-19,Weed and Tidy,50,9,23.80,18.33,22,Bank Transfer,Caston
+J0436,C028,2025-12-17,Hedge Trim,81,12,26.80,32.40,24,Cash,Saham Toney
+J0473,C033,2025-04-23,Hedge Trim,53,6,9.80,15.90,18,Bank Transfer,Hethersett
+J0481,C033,2025-12-03,Hedge Trim,52,6,11.50,18.00,18,Bank Transfer,Hethersett
+J0059,C002,2025-08-13,Weed and Tidy,64,6,7.20,25.60,24,Cash,Norwich
+J0372,C027,2025-04-09,Grass Cut,38,6,11.00,13.30,21,Bank Transfer,Hethersett
+J0006,C001,2025-04-04,Hedge Trim,74,15,20.80,22.20,18,Bank Transfer,Caston
+J0284,C020,2025-08-02,Weed and Tidy,107,6,21.10,37.45,21,Cash,Dereham
+J0129,C005,2025-11-19,Hedge Trim,69,6,19.80,24.15,21,Cash,Besthorpe
+J0271,C020,2025-05-03,Grass Cut,102,6,22.60,35.70,21,Bank Transfer,Dereham
+J0240,C013,2025-11-25,Hedge Trim,80,10,14.90,30.67,23,Card,Hethersett
+J0370,C027,2025-03-26,Grass Cut,36,9,14.10,21.00,21,Debit Card,Hethersett
+J0196,C009,2025-08-13,Grass Cut,93,6,14.90,29.45,19,Cash,Ashwellthorpe
+J0198,C009,2025-10-08,Weed and Tidy,72,11,17.00,19.00,19,Card,Ashwellthorpe
+J0033,C002,2025-02-12,Hedge Trim,72,6,2.90,28.80,24,Card,Norwich
+J0306,C021,2025-01-01,Hedge Trim,82,11,20.90,30.07,22,Bank Transfer,Caston
+J0217,C010,2025-08-15,Grass Cut,90,6,20.10,27.00,18,Cash,Dereham
+J0349,C024,2025-12-31,Weed and Tidy,97,6,14.30,40.42,25,Cash,Mulbarton
+J0082,C003,2025-01-29,Leaf Clearance,53,6,12.90,23.00,23,Card,Mulbarton
+J0466,C032,2025-11-05,Leaf Clearance,53,6,11.70,16.78,19,Cash,Hethersett
+J0079,C002,2025-12-31,Hedge Trim,80,6,8.70,32.00,24,Bank Transfer,Norwich
+J0057,C002,2025-07-30,Grass Cut,72,6,11.50,24.00,24,Cash,Norwich
+J0025,C001,2025-12-12,Pressure Wash,76,6,21.50,18.00,18,Bank Transfer,Caston
+J0047,C002,2025-05-21,Grass Cut,57,6,8.60,24.00,24,Cash,Norwich
+J0253,C019,2025-04-23,Grass Cut,39,11,21.10,15.60,24,Card,Attleborough
+J0261,C019,2025-12-03,Pressure Wash,63,10,14.20,25.20,24,Cash,Attleborough
+J0071,C002,2025-11-05,Leaf Clearance,70,6,10.10,24.00,24,Card,Norwich
+J0418,C028,2025-04-09,Grass Cut,57,14,28.20,22.80,24,Bank Transfer,Saham Toney
+J0462,C032,2025-07-16,Weed and Tidy,69,6,6.60,21.85,19,Card,Hethersett
+J0205,C010,2025-02-28,Hedge Trim,90,8,20.60,27.00,18,Card,Dereham
+J0299,C020,2025-11-15,Leaf Clearance,82,6,16.40,28.70,21,Debit Card,Dereham
+J0220,C010,2025-09-26,Leaf Clearance,53,6,21.70,15.90,18,Bank Transfer,Dereham
+J0300,C020,2025-11-22,Hedge Trim,101,13,19.00,21.00,21,Card,Dereham
+J0383,C027,2025-06-25,Grass Cut,51,6,9.60,21.00,21,Bank Transfer,Hethersett
+J0135,C007,2025-01-08,Leaf Clearance,67,14,17.80,20.10,18,Card,Ashwellthorpe
+J0276,C020,2025-06-07,Grass Cut,63,6,18.00,21.00,21,Bank Transfer,Dereham
+J0288,C020,2025-08-30,Grass Cut,82,18,20.20,28.70,21,Card,Dereham
+J0382,C027,2025-06-18,Grass Cut,52,6,14.50,18.20,21,Card,Hethersett
+J0127,C005,2025-10-22,Leaf Clearance,75,15,19.50,26.25,21,Debit Card,Besthorpe
+J0072,C002,2025-11-12,Leaf Clearance,67,6,5.20,26.80,24,Cash,Norwich
+J0478,C033,2025-09-10,Weed and Tidy,37,6,10.00,18.00,18,Bank Transfer,Hethersett
+J0074,C002,2025-11-26,Weed and Tidy,54,6,10.70,21.60,24,Bank Transfer,Norwich
+J0235,C013,2025-09-16,Grass Cut,81,8,12.50,31.05,23,Bank Transfer,Hethersett
+J0330,C021,2025-12-03,Hedge Trim,82,7,14.00,22.00,22,Card,Caston
+J0203,C010,2025-01-31,Hedge Trim,93,6,23.20,27.90,18,Card,Dereham
+J0256,C019,2025-07-16,Grass Cut,44,9,19.80,17.60,24,Card,Attleborough
+J0336,C024,2025-01-01,Hedge Trim,128,8,9.50,53.33,25,Card,Mulbarton
+J0406,C027,2025-12-03,Leaf Clearance,46,6,10.00,16.10,21,Bank Transfer,Hethersett
+J0410,C027,2025-12-31,Leaf Clearance,45,9,14.60,15.75,21,Cash,Hethersett
+J0368,C027,2025-03-12,Weed and Tidy,39,6,8.90,13.65,21,Debit Card,Hethersett
+J0291,C020,2025-09-20,Hedge Trim,111,10,22.60,38.85,21,Bank Transfer,Dereham
+J0109,C005,2025-02-12,Weed and Tidy,50,12,16.50,17.50,21,Cash,Besthorpe
+J0034,C002,2025-02-19,Weed and Tidy,52,6,18.00,20.80,24,Bank Transfer,Norwich
+J0138,C007,2025-01-29,Leaf Clearance,52,6,19.00,15.60,18,Bank Transfer,Ashwellthorpe
+J0206,C010,2025-03-14,Grass Cut,80,6,18.80,24.00,18,Bank Transfer,Dereham
+J0162,C007,2025-07-16,Weed and Tidy,71,6,17.10,21.30,18,Cash,Ashwellthorpe
+J0017,C001,2025-08-22,Weed and Tidy,47,16,24.10,14.10,18,Card,Caston
+J0118,C005,2025-06-18,Weed and Tidy,74,7,18.10,21.00,21,Card,Besthorpe
+J0029,C002,2025-01-15,Pressure Wash,95,6,6.00,38.00,24,Bank Transfer,Norwich
+J0398,C027,2025-10-08,Leaf Clearance,45,16,15.70,21.00,21,Bank Transfer,Hethersett
+J0394,C027,2025-09-10,Grass Cut,52,6,8.40,18.20,21,Bank Transfer,Hethersett
+J0167,C007,2025-08-20,Hedge Trim,79,6,15.60,23.70,18,Bank Transfer,Ashwellthorpe
+J0351,C025,2025-11-23,Leaf Clearance,53,7,12.40,24.00,24,Cash,Ashwellthorpe
+J0113,C005,2025-04-09,Weed and Tidy,65,7,17.20,21.00,21,Card,Besthorpe
+J0286,C020,2025-08-16,Grass Cut,79,10,19.40,27.65,21,Bank Transfer,Dereham
+J0353,C026,2025-01-29,Hedge Trim,76,6,17.80,29.13,23,Cash,Attleborough
+J0328,C021,2025-11-05,Pressure Wash,88,8,23.30,22.00,22,Debit Card,Caston
+J0139,C007,2025-02-05,Leaf Clearance,52,6,12.00,18.00,18,Bank Transfer,Ashwellthorpe
+J0447,C029,2025-09-10,Weed and Tidy,91,6,15.80,22.00,22,Cash,Wymondham
+J0237,C013,2025-10-14,Grass Cut,70,6,12.80,26.83,23,Card,Hethersett
+J0441,C029,2025-03-26,Weed and Tidy,64,6,7.60,22.00,22,Cash,Wymondham
+J0126,C005,2025-10-08,Grass Cut,73,9,19.20,21.00,21,Card,Besthorpe
+J0475,C033,2025-06-18,Weed and Tidy,45,9,9.00,13.50,18,Bank Transfer,Hethersett
+J0274,C020,2025-05-24,Weed and Tidy,70,6,20.60,24.50,21,Card,Dereham
+J0088,C003,2025-04-23,Grass Cut,63,8,14.20,24.15,23,Card,Mulbarton
+J0449,C029,2025-11-05,Pressure Wash,119,6,18.20,43.63,22,Card,Wymondham
+J0312,C021,2025-03-26,Weed and Tidy,62,6,21.90,22.73,22,Card,Caston
+J0037,C002,2025-03-12,Grass Cut,67,6,8.40,24.00,24,Card,Norwich
+J0332,C021,2025-12-31,Pressure Wash,87,12,23.50,22.00,22,Cash,Caston
+J0350,C025,2025-07-31,Grass Cut,38,6,15.70,24.00,24,Cash,Ashwellthorpe
+J0360,C027,2025-01-15,Hedge Trim,61,8,14.50,21.35,21,Bank Transfer,Hethersett
+J0137,C007,2025-01-22,Hedge Trim,96,12,15.20,28.80,18,Bank Transfer,Ashwellthorpe
+J0344,C024,2025-08-13,Grass Cut,67,8,14.40,25.00,25,Card,Mulbarton
+J0108,C004,2025-10-13,Hedge Trim,66,7,18.20,23.10,21,Bank Transfer,Hingham
+J0182,C007,2025-12-03,Leaf Clearance,68,8,11.60,20.40,18,Card,Ashwellthorpe
+J0190,C009,2025-02-26,Pressure Wash,104,6,13.80,32.93,19,Cash,Ashwellthorpe
+J0084,C003,2025-02-26,Weed and Tidy,67,6,10.70,25.68,23,Bank Transfer,Mulbarton
+J0187,C008,2025-01-17,Leaf Clearance,37,12,12.20,14.18,23,Cash,Mulbarton
+J0428,C028,2025-08-27,Grass Cut,66,6,25.80,26.40,24,Cash,Saham Toney
+J0326,C021,2025-10-08,Hedge Trim,88,8,23.60,32.27,22,Bank Transfer,Caston
+J0233,C013,2025-08-19,Weed and Tidy,108,6,13.30,41.40,23,Bank Transfer,Hethersett
+J0390,C027,2025-08-13,Grass Cut,46,6,10.10,21.00,21,Bank Transfer,Hethersett
+J0484,C035,2025-03-17,Grass Cut,47,6,18.60,25.00,25,Cash,Old Buckenham
+J0052,C002,2025-06-25,Grass Cut,54,6,8.80,21.60,24,Card,Norwich
+J0444,C029,2025-06-18,Hedge Trim,113,6,20.50,41.43,22,Bank Transfer,Wymondham
+J0120,C005,2025-07-16,Grass Cut,75,12,19.00,26.25,21,Card,Besthorpe
+J0438,C029,2025-01-01,Leaf Clearance,103,13,11.90,37.77,22,Cash,Wymondham
+J0470,C033,2025-01-29,Pressure Wash,72,6,7.30,21.60,18,Bank Transfer,Hethersett
+J0149,C007,2025-04-16,Grass Cut,74,6,13.10,18.00,18,Cash,Ashwellthorpe
+J0009,C001,2025-05-12,Hedge Trim,66,7,25.00,18.00,18,Bank Transfer,Caston
+J0069,C002,2025-10-22,Leaf Clearance,61,6,5.70,24.40,24,Bank Transfer,Norwich
+J0400,C027,2025-10-22,Leaf Clearance,51,11,10.10,17.85,21,Card,Hethersett
+J0262,C019,2025-12-31,Pressure Wash,67,16,15.60,26.80,24,Cash,Attleborough
+J0255,C019,2025-06-18,Grass Cut,35,16,22.80,24.00,24,Bank Transfer,Attleborough
+J0038,C002,2025-03-19,Grass Cut,57,6,9.70,24.00,24,Cash,Norwich
+J0396,C027,2025-09-24,Weed and Tidy,50,10,12.20,17.50,21,Card,Hethersett
+J0117,C005,2025-06-04,Grass Cut,71,7,14.00,21.00,21,Card,Besthorpe
+J0099,C003,2025-09-10,Weed and Tidy,57,6,15.90,21.85,23,Card,Mulbarton
+J0296,C020,2025-10-25,Hedge Trim,117,9,18.00,40.95,21,Card,Dereham
+J0186,C007,2025-12-31,Hedge Trim,79,6,13.90,23.70,18,Bank Transfer,Ashwellthorpe
+J0442,C029,2025-04-23,Hedge Trim,106,7,9.80,38.87,22,Bank Transfer,Wymondham
+J0454,C031,2025-12-28,Leaf Clearance,46,15,21.90,16.10,21,Debit Card,Old Buckenham
+J0317,C021,2025-06-04,Weed and Tidy,54,6,29.30,19.80,22,Cash,Caston
+J0210,C010,2025-05-09,Weed and Tidy,94,12,21.60,28.20,18,Cash,Dereham
+J0231,C013,2025-07-22,Hedge Trim,81,16,7.50,31.05,23,Card,Hethersett
+J0450,C029,2025-12-03,Hedge Trim,103,8,18.60,37.77,22,Cash,Wymondham
+J0339,C024,2025-03-26,Weed and Tidy,72,6,7.90,30.00,25,Bank Transfer,Mulbarton
+J0024,C001,2025-11-28,Leaf Clearance,41,6,26.30,12.30,18,Card,Caston
+J0036,C002,2025-03-05,Grass Cut,70,6,5.80,28.00,24,Cash,Norwich
+J0361,C027,2025-01-22,Hedge Trim,80,6,13.20,28.00,21,Bank Transfer,Hethersett
+J0101,C003,2025-10-08,Leaf Clearance,70,6,14.60,26.83,23,Bank Transfer,Mulbarton
+J0241,C013,2025-12-09,Leaf Clearance,100,6,12.80,38.33,23,Bank Transfer,Hethersett
+J0152,C007,2025-05-07,Weed and Tidy,67,9,19.10,20.10,18,Cash,Ashwellthorpe
+J0355,C026,2025-03-26,Hedge Trim,50,6,13.60,23.00,23,Bank Transfer,Attleborough
+J0121,C005,2025-07-30,Grass Cut,67,13,14.60,21.00,21,Cash,Besthorpe
+J0247,C017,2025-03-12,Grass Cut,56,6,19.20,22.00,22,Cash,Hingham
+J0112,C005,2025-03-26,Grass Cut,64,10,16.90,22.40,21,Cash,Besthorpe
+J0060,C002,2025-08-20,Grass Cut,54,7,8.70,24.00,24,Card,Norwich
+J0016,C001,2025-08-08,Weed and Tidy,46,13,24.20,18.00,18,Card,Caston
+J0322,C021,2025-08-13,Grass Cut,67,16,23.60,24.57,22,Bank Transfer,Caston
+J0425,C028,2025-07-16,Grass Cut,51,14,24.70,24.00,24,Bank Transfer,Saham Toney
+J0151,C007,2025-04-30,Grass Cut,67,7,14.50,20.10,18,Bank Transfer,Ashwellthorpe
+J0283,C020,2025-07-26,Grass Cut,63,6,20.30,22.05,21,Bank Transfer,Dereham
+J0041,C002,2025-04-09,Grass Cut,63,6,2.00,25.20,24,Bank Transfer,Norwich
+J0194,C009,2025-06-18,Hedge Trim,108,8,16.20,19.00,19,Card,Ashwellthorpe
+J0064,C002,2025-09-17,Hedge Trim,83,6,8.00,33.20,24,Bank Transfer,Norwich
+J0275,C020,2025-05-31,Hedge Trim,99,6,20.00,34.65,21,Card,Dereham
+J0236,C013,2025-09-30,Weed and Tidy,83,6,8.00,31.82,23,Card,Hethersett
+J0374,C027,2025-04-23,Grass Cut,48,6,11.10,16.80,21,Bank Transfer,Hethersett
+J0023,C001,2025-11-14,Leaf Clearance,38,6,20.90,11.40,18,Cash,Caston
+J0414,C028,2025-02-12,Leaf Clearance,63,12,30.00,24.00,24,Card,Saham Toney
+J0136,C007,2025-01-15,Weed and Tidy,67,6,21.50,20.10,18,Bank Transfer,Ashwellthorpe
+J0310,C021,2025-02-26,Leaf Clearance,73,10,24.60,26.77,22,Bank Transfer,Caston
+J0177,C007,2025-10-29,Grass Cut,66,7,11.10,19.80,18,Card,Ashwellthorpe
+J0434,C028,2025-11-19,Hedge Trim,94,6,24.10,37.60,24,Cash,Saham Toney
+J0184,C007,2025-12-17,Weed and Tidy,75,6,9.50,22.50,18,Card,Ashwellthorpe
+J0050,C002,2025-06-11,Grass Cut,67,6,8.50,26.80,24,Bank Transfer,Norwich
+J0195,C009,2025-07-16,Grass Cut,110,10,16.80,19.00,19,Bank Transfer,Ashwellthorpe
+J0048,C002,2025-05-28,Grass Cut,66,6,8.60,26.40,24,Cash,Norwich
+J0053,C002,2025-07-02,Grass Cut,62,6,3.40,24.80,24,Bank Transfer,Norwich
+J0173,C007,2025-10-01,Weed and Tidy,56,12,5.40,16.80,18,Card,Ashwellthorpe
+J0391,C027,2025-08-20,Hedge Trim,80,10,15.60,28.00,21,Bank Transfer,Hethersett
+J0111,C005,2025-03-12,Grass Cut,72,7,18.70,25.20,21,Bank Transfer,Besthorpe
+J0080,C003,2025-01-01,Weed and Tidy,55,6,16.60,23.00,23,Card,Mulbarton
+J0143,C007,2025-03-05,Hedge Trim,85,7,15.10,25.50,18,Debit Card,Ashwellthorpe
+J0175,C007,2025-10-15,Weed and Tidy,55,6,14.70,18.00,18,Card,Ashwellthorpe
+J0347,C024,2025-11-05,Hedge Trim,80,6,11.20,33.33,25,Card,Mulbarton
+J0008,C001,2025-05-02,Grass Cut,47,10,20.90,14.10,18,Card,Caston
+J0467,C032,2025-12-03,Weed and Tidy,64,6,11.40,20.27,19,Cash,Hethersett
+J0479,C033,2025-10-08,Hedge Trim,53,6,9.00,15.90,18,Card,Hethersett
+J0401,C027,2025-10-29,Grass Cut,39,13,14.80,13.65,21,Bank Transfer,Hethersett
+J0245,C016,2025-06-05,Grass Cut,52,10,22.20,20.80,24,Bank Transfer,Caston
+J0413,C028,2025-01-29,Pressure Wash,89,9,25.30,35.60,24,Bank Transfer,Saham Toney
+J0097,C003,2025-08-27,Grass Cut,61,14,13.70,23.38,23,Bank Transfer,Mulbarton
+J0087,C003,2025-04-09,Weed and Tidy,57,7,12.80,23.00,23,Card,Mulbarton
+J0263,C020,2025-03-08,Grass Cut,63,19,22.00,21.00,21,Card,Dereham
+J0039,C002,2025-03-26,Grass Cut,67,6,15.90,26.80,24,Card,Norwich
+J0005,C001,2025-03-21,Grass Cut,45,8,17.30,13.50,18,Card,Caston
+J0063,C002,2025-09-10,Grass Cut,63,6,5.90,25.20,24,Cash,Norwich
+J0200,C009,2025-12-03,Leaf Clearance,91,7,18.50,28.82,19,Debit Card,Ashwellthorpe
+J0280,C020,2025-07-05,Grass Cut,82,7,20.30,28.70,21,Cash,Dereham
+J0295,C020,2025-10-18,Hedge Trim,102,6,18.10,35.70,21,Bank Transfer,Dereham
+J0298,C020,2025-11-08,Leaf Clearance,88,6,17.20,21.00,21,Cash,Dereham
