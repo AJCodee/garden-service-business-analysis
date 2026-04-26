@@ -1,0 +1,11 @@
+# Personal notes
+TODO.md
+todo.txt
+
+# Environment / secrets
+.env
+
+# Database / local data
+*.db
+*.sqlite
+*.sqlite3
