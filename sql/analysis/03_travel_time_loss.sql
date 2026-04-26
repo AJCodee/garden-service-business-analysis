@@ -13,3 +13,6 @@ GROUP BY
     EXTRACT(DOW FROM job_date),
     TO_CHAR(job_date, 'FMDay')
 ORDER BY estimated_revenue_lost DESC;
+
+-- Insight: Wednesdays have the highest travel time and estimated revenue loss, 
+-- indicating potential inefficiencies in scheduling or job clustering midweek.

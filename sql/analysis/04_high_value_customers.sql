@@ -21,3 +21,6 @@ FROM customer_jobs
 GROUP BY customer_id, customer_name
 ORDER BY total_revenue DESC
 LIMIT 10;
+
+-- Insight: A small group of customers contributes a significant share of total revenue, 
+-- highlighting the importance of retaining high-frequency, high-value clients.

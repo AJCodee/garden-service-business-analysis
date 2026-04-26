@@ -9,3 +9,6 @@ JOIN jobs_clean jc
     ON cc.customer_id = jc.customer_id
 GROUP BY cc.service_plan
 ORDER BY total_revenue DESC;
+
+-- Insight: Weekly service plans generate the highest revenue and job volume, 
+-- indicating that recurring services are the primary driver of business income.

@@ -13,3 +13,6 @@ SELECT
 FROM jobs_clean
 GROUP BY location
 ORDER BY revenue_per_hour ASC;
+
+-- Insight: Poringland generates the lowest revenue per hour, 
+-- suggesting lower operational efficiency likely driven by higher travel time relative to job value.
