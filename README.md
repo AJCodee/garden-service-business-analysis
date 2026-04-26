@@ -43,46 +43,52 @@ This ensured the dataset was reliable for analysis and reporting.
 dashboard/
 
 data/
-├── garden_customers_clean.csv
-├── garden_customers_raw.csv
-├── garden_jobs_clean.csv
-├── garden_jobs_raw.csv
+
+- garden_customers_clean.csv
+- garden_customers_raw.csv
+- garden_jobs_clean.csv
+- garden_jobs_raw.csv
 
 sql/
-├── 01_create_tables.sql
-├── 02_clean_customers.sql
-├── 03_clean_jobs.sql
-├── 04_remove_duplicates.sql
-└── analysis/
-├── 01_service_plan_revenue.sql
-├── 02_location_efficiency.sql
-├── 03_travel_time_loss.sql
-├── 04_high_value_customers.sql
+
+- 01_create_tables.sql
+- 02_clean_customers.sql
+- 03_clean_jobs.sql
+- 04_remove_duplicates.sql
+- analysis/
+- 01_service_plan_revenue.sql
+- 02_location_efficiency.sql
+- 03_travel_time_loss.sql
+- 04_high_value_customers.sql
 
 ## Key Questions & Insights
 
 ### 1. Service Plan Performance
 
-**Question** What service plan generates the most revenue and job volume?
-**Insight** Weekly service plans generate the highest revenue and job volume,
+**Question:** What service plan generates the most revenue and job volume?
+
+**Insight:** Weekly service plans generate the highest revenue and job volume,
 indicating that recurring services are the primary driver of business income.
 
 ### 2. Location Efficiency
 
-**Question** What location generates the lowest revenue relative to time spent?
-**Insight** Poringland generates the lowest revenue per hour, suggesting lower operational
+**Question:** What location generates the lowest revenue relative to time spent?
+
+**Insight:** Poringland generates the lowest revenue per hour, suggesting lower operational
 efficiency likely driven by higher travel time relative to job value.
 
 ### 3. Travel Time Cost
 
-**Question** Which day of the week has the highest travel time and estimated revenue lost?
-**Insight** Wednesdays have the highest travel time and estimated revenue loss,
+**Question:** Which day of the week has the highest travel time and estimated revenue lost?
+
+**Insight:** Wednesdays have the highest travel time and estimated revenue loss,
 indicating potential inefficiencies in scheduling or job clustering midweek.
 
 ### 4. Customer Value
 
-**Question** Who are our highest-value customers based on total revenue and job frequency?
-**Insight** A small group of customers contributes a significant share of total revenue,
+**Question:** Who are our highest-value customers based on total revenue and job frequency?
+
+**Insight:** A small group of customers contributes a significant share of total revenue,
 highlighting the importance of retaining high-frequency, high-value clients.
 
 ## Project Status
