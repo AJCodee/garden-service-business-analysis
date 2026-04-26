@@ -34,9 +34,9 @@ This ensured the dataset was reliable for analysis and reporting.
 
 - PostgreSQL
 - Dbeaver
-- VSCode
-- Git/Github
-- Power BI
+- VS Code
+- Git & Github
+- Power BI (In Progress)
 
 ## Project Structure
 
