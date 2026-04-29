@@ -79,7 +79,7 @@ indicating that recurring services are the primary driver of business income.
 
 **Output:** (outputs/q1_service_plan_revenue.csv)
 
-### 2. Location Efficiency
+### 2. Location Efficientcy
 
 **Question:** What location generates the lowest revenue relative to time spent?
 
