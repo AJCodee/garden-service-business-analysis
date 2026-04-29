@@ -49,6 +49,13 @@ data/
 - garden_jobs_clean.csv
 - garden_jobs_raw.csv
 
+outputs/
+
+- q1_service_plan_revenue.csv
+- q2_location_efficientcy.csv
+- q3_travel_time_loss.csv
+- q4_high_value_customers.csv
+
 sql/
 
 - 01_create_tables.sql
