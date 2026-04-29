@@ -77,12 +77,16 @@ sql/
 **Insight:** Weekly service plans generate the highest revenue and job volume,
 indicating that recurring services are the primary driver of business income.
 
+**Output:** (outputs/q1_service_plan_revenue.csv)
+
 ### 2. Location Efficiency
 
 **Question:** What location generates the lowest revenue relative to time spent?
 
 **Insight:** Poringland generates the lowest revenue per hour, suggesting lower operational
 efficiency likely driven by higher travel time relative to job value.
+
+**Output:** (outputs/q2_location_efficientcy.csv)
 
 ### 3. Travel Time Cost
 
@@ -91,12 +95,16 @@ efficiency likely driven by higher travel time relative to job value.
 **Insight:** Wednesdays have the highest travel time and estimated revenue loss,
 indicating potential inefficiencies in scheduling or job clustering midweek.
 
+**Output:** (outputs/q3_travel_time_loss.csv)
+
 ### 4. Customer Value
 
 **Question:** Who are our highest-value customers based on total revenue and job frequency?
 
 **Insight:** A small group of customers contributes a significant share of total revenue,
 highlighting the importance of retaining high-frequency, high-value clients.
+
+**Output:** (outputs/q4_high_value_customers.csv)
 
 ## Project Status
 
