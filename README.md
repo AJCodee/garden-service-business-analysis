@@ -36,11 +36,14 @@ This ensured the dataset was reliable for analysis and reporting.
 - Dbeaver
 - VS Code
 - Git & Github
-- Power BI (In Progress)
+- Power BI
 
 ## Project Structure
 
 dashboard/
+
+- dashboard_overview.png
+- Garden_service_dashboard.pbix
 
 data/
 
@@ -106,8 +109,35 @@ highlighting the importance of retaining high-frequency, high-value clients.
 
 **Output:** (outputs/q4_high_value_customers.csv)
 
+## Power BI Dashboard
+
+The final stage of this project was creating an interactive Power BI dashboard to visualize business performance.
+
+### Dashboard Features
+
+- Revenue overview
+- Jobs completed
+- Unique clients
+- Revenue per job
+- Revenue trends by month
+- Services provided breakdown
+- Top customers by revenue
+- Revenue per hour by service
+- Property size analysis
+
+### Dashboard Preview
+
+![Dashboard Overview](dashboard/dashboard_overview.png)
+
+### Key Insights
+
+- December generated the highest revenue.
+- Grass Cutting was the most requested service.
+- A small number of customers generated a significant portion of revenue.
+- Revenue per hour varied across service types, highlighting potential opportunities for pricing optimisation.
+
 ## Project Status
 
 - Data cleaning: Complete
 - SQL analysis: Complete
-- Power BI dashboard: In progress
+- Power BI dashboard: Complete
